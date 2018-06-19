@@ -9,6 +9,10 @@ import scrapy
 
 
 class ParlimentinfoItem(scrapy.Item):
-    # define the fields for your item here like:
-    # name = scrapy.Field()
-    pass
+    url = scrapy.Field()
+    title = scrapy.Field()
+    date = scrapy.Field()
+    comments = scrapy.Field()
+    views = scrapy.Field()
+    content = scrapy.Field()
+    keywords = scrapy.Field()
