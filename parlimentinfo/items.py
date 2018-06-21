@@ -8,11 +8,35 @@
 import scrapy
 
 
-class ParlimentinfoItem(scrapy.Item):
-    url = scrapy.Field()
+class Member(scrapy.Item):
+    # define the fields for your item here like:
+    name = scrapy.Field()
+    party = scrapy.Field()
+    dob = scrapy.Field()
+    civil_status = scrapy.Field()
+    religion = scrapy.Field()
+    occupation = scrapy.Field()
+    political_carrer = scrapy.Field()
+
+class CurrentMember(scrapy.Item):
+    # define the fields for your item here like:
+    name = scrapy.Field()
+    party = scrapy.Field()
+    dob = scrapy.Field()
+    civil_status = scrapy.Field()
+    religion = scrapy.Field()
+    occupation = scrapy.Field()
+    district = scrapy.Field()
+    portfolio = scrapy.Field()
+    mobile = scrapy.Field()
+    h_address = scrapy.Field()
+    email = scrapy.Field()
+    office_phone = scrapy.Field()
+    office_address = scrapy.Field()
+    pass
+
+class Article(scrapy.Item):
+    # define the fields for your item here like:
     title = scrapy.Field()
     date = scrapy.Field()
-    comments = scrapy.Field()
-    views = scrapy.Field()
     content = scrapy.Field()
-    keywords = scrapy.Field()
