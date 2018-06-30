@@ -16,7 +16,7 @@ class Member(scrapy.Item):
     civil_status = scrapy.Field()
     religion = scrapy.Field()
     occupation = scrapy.Field()
-    political_carrer = scrapy.Field()
+    political_career = scrapy.Field()
 
 class CurrentMember(scrapy.Item):
     # define the fields for your item here like:
@@ -27,13 +27,7 @@ class CurrentMember(scrapy.Item):
     religion = scrapy.Field()
     occupation = scrapy.Field()
     district = scrapy.Field()
-    portfolio = scrapy.Field()
-    mobile = scrapy.Field()
-    home_address = scrapy.Field()
     email = scrapy.Field()
-    office_phone = scrapy.Field()
-    office_address = scrapy.Field()
-    pass
 
 class Article(scrapy.Item):
     # define the fields for your item here like:

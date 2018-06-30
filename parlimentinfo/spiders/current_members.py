@@ -34,17 +34,7 @@ class CurrentMembersSpider(scrapy.Spider):
                     '//div[@class="top-mp-detail-2"]//div[@class="left-wrap"]//table[@class="mem_profile"]//tr/td[contains(.//span, "Religion")]/text()')
         l.add_xpath('occupation',
                     '//div[@class="top-mp-detail-2"]//div[@class="left-wrap"]//table[@class="mem_profile"]//tr/td[contains(.//span, "Occupation")]/text()')
-        l.add_xpath('mobile',
-                    '//div[@class="top-mp-detail-2"]//div[@class="right-wrap"]//table[@class="mem_profile"]//tr[1]//td[1]//td[@width="93%"]/text()')
-        l.add_xpath('home_address',
-                    '//div[@class="top-mp-detail-2"]//div[@class="right-wrap"]//table[@class="mem_profile"]//tr[1]//td[1]//tr//td//img[@src="/images/address.png"]/parent::td/following-sibling::td/text()')
         l.add_xpath('email', '//a[@class="link7"]/text()')
-        l.add_xpath('office_phone',
-                    '//div[@class="top-mp-detail-2"]//div[@class="right-wrap"]//table[@class="mem_profile"]//tr[1]//td[2]//tr//td//img[@src="/images/phone_ico.png"]/parent::td/following-sibling::td/text()')
-        l.add_xpath('office_address',
-                    '//div[@class="top-mp-detail-2"]//div[@class="right-wrap"]//table[@class="mem_profile"]//tr[1]//td[2]//tr//td//img[@src="/images/address.png"]/parent::td/following-sibling::td/text()')
         l.add_xpath('district',
                     '//div[@class="top-mp-detail-1"]//div[@class="right-details"]//table[@class="mem_profile"]//tr/td[contains(.//div, "District")]/text()')
-        l.add_xpath('portfolio',
-                    '//div[@class="top-mp-detail-1"]//div[@class="right-details"]//table[@class="mem_profile"]//tr/td[contains(.//div, "Portfolio")]/text()')
         yield l.load_item()

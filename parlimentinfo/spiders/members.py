@@ -35,5 +35,5 @@ class MembersSpider(scrapy.Spider):
                     '//div[@class="top-mp-detail-2"]//div[@class="left-wrap"]//table[@class="mem_profile"]//tr/td[contains(.//span, "Religion")]/text()')
         l.add_xpath('occupation',
                     '//div[@class="top-mp-detail-2"]//div[@class="left-wrap"]//table[@class="mem_profile"]//tr/td[contains(.//span, "Occupation")]/text()')
-        l.add_xpath('political_carrer', '//pre/text()')
+        l.add_xpath('political_career', '//pre/text()')
         yield l.load_item()

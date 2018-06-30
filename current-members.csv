@@ -1,540 +1,451 @@
-civil_status,district,dob,email,home_address,mobile,name,occupation,office_address,office_phone,party,portfolio,religion
+civil_status,district,dob,email,name,occupation,party,religion
  : Married," 
-                                Hambantota", : 12-02-1962,amaraweera_m@parliament.lk,"B- 63,,Mahagamasekara Mawatha,,Colombo 07.",0472228326,"Hon. Mahinda Amaraweera, M.P.",,,0777 730071                                                            ,United People's Freedom Alliance(UPFA),"
-                                Minister of Agriculture", : Buddhism
+                                Mahanuwara", : 24-04-1964,aluthgamage_a@parliament.lk,"Hon. Ananda Aluthgamage, M.P.", : Agriculturist,United National Party (UNP), : Buddhism
  : Married," 
-                                Kurunegala", : 18-02-1966,alawathuwala_j@parliament.lk,"Kandy Road,,Millawa,,Kurunegala.",0777530448,"Hon. J. C. Alawathuwala, M.P.",,,0777530448                                                            ,United National Party (UNP),"
-                                State Minister of Home Affairs", : Buddhism
+                                Matara", : 14-05-1959,dullas_a@parliament.lk,"Hon. Dullas Alahapperuma, M.P.", : Journalist,United People's Freedom Alliance(UPFA), : Buddhism
  : Married," 
-                                Kurunegala", : 20-07-1968,thushara_i@parliament.lk,"Ihala watta,,Galgammulla,,Wewagama.",,"Hon. Thushara Indunil Amarasena, M.P.", : Politician,,0373973004                                                            ,United National Party (UNP),, : Buddhism
+                                Gampaha", : 21-05-1940,amaratunga_j@parliament.lk,"Hon. John Amaratunga, M.P.", : Attorney-at-Law,United National Party (UNP), : Roman Catholicism
  : Married," 
-                                Matale", : 16-07-1962,aluwihare_w@parliament.lk,"875,,Aluviharaya,,Matale.",0662222974,"Hon. Wasantha Aluwihare, M.P.",,,0662222975                                                            ,United National Party (UNP),"
-                                State Minister of Agriculture", : Buddhism
+                                Kurunegala", : 20-07-1968,thushara_i@parliament.lk,"Hon. Thushara Indunil Amarasena, M.P.", : Politician,United National Party (UNP), : Buddhism
  : Married," 
-                                Mahanuwara", : 24-04-1964,aluthgamage_a@parliament.lk,"No. 111 K,,Angunawala, Near Temple,,Peradeniya.",,"Hon. Ananda Aluthgamage, M.P.", : Agriculturist,,0812386878                                                            ,United National Party (UNP),, : Buddhism
+                                Matale", : 05-04-1958,aluwihare_r@parliament.lk,"Hon. Ranjith Aluvihare, M.P.", : Businessman,United National Party (UNP), : Buddhism
  : Married," 
-                                Gampaha", : 21-05-1940,amaratunga_j@parliament.lk,"No. 88,,Negombo Road,,Kandana.",2367147,"Hon. John Amaratunga, M.P.", : Attorney-at-Law,,2686350                                                            ,United National Party (UNP),"
-                                Minister of Tourism Development and Christian Religious Affairs", : Roman Catholicism
+                                Kurunegala", : 18-02-1966,alawathuwala_j@parliament.lk,"Hon. J. C. Alawathuwala, M.P.",,United National Party (UNP), : Buddhism
  : Married," 
-                                Mahanuwara", : 21-11-1964,aluthgamage_m@parliament.lk,"No. 623/19,,Rajagiriya Garden,,Rajagiriya.",011-268814,"Hon. Mahindananda Aluthgamage, M.P.",,,0542224330                                                            ,United People's Freedom Alliance(UPFA),, : Buddhism
+                                Mahanuwara", : 21-11-1964,aluthgamage_m@parliament.lk,"Hon. Mahindananda Aluthgamage, M.P.",,United People's Freedom Alliance(UPFA), : Buddhism
  : Married," 
-                                Matale", : 05-04-1958,aluwihare_r@parliament.lk,"No.883,,Aluwihare,,Matale.",,"Hon. Ranjith Aluvihare, M.P.", : Businessman,,0662050388/ 0662233802                                                            ,United National Party (UNP),"
-                                State Minister of Tourism Development and Christian Religious Affairs", : Buddhism
+                                Matale", : 16-07-1962,aluwihare_w@parliament.lk,"Hon. Wasantha Aluwihare, M.P.",,United National Party (UNP), : Buddhism
  : Married," 
-                                Matara", : 14-05-1959,dullas_a@parliament.lk,"Ruhunupaya,,Radampala,,Urugamuwa.",0413021900,"Hon. Dullas Alahapperuma, M.P.", : Journalist,"No. 352/G7, Embuldeniya Road,Madiwela,,Kotte.",,United People's Freedom Alliance(UPFA),, : Buddhism
+                                Gampaha", : 19-10-1967,alagiyawanna_l@parliament.lk,"Hon. Lasantha Alagiyawanna, M.P.", : Teacher,United People's Freedom Alliance(UPFA), : Buddhism
+," 
+                                Kurunegala", : 09-10-1956,abeysinghe_a@parliament.lk,"Hon. Ashok Abeysinghe, M.P.",,United National Party (UNP),
  : Widower," 
-                                Vanni", : 10-06-1962,adaikkalanathan_s@parliament.lk,"St. Sebastian Road,,Mannar.",024222977,"Hon. Selvam Adaikkalanathan, M.P.",,"C 28, Housing Scheme for MPP,Madiwela,,Kotte.",0232222100                                                            ,Illankai Tamil Arasu Kadchi (ITAK),"
-                                Deputy Chairperson of Committees", : Roman Catholicism
+                                Vanni", : 10-06-1962,adaikkalanathan_s@parliament.lk,"Hon. Selvam Adaikkalanathan, M.P.",,Illankai Tamil Arasu Kadchi (ITAK), : Roman Catholicism
  : Married," 
-                                Matara", : 10-10-1945,abeywardena_m@parliament.lk,"30/5 A, Roberts Road,,Kalubowila,,Dehiwala.",0412268220,"Hon. Mahinda Yapa Abeywardena , M.P.", : Landed Proprietor,,0112722454                                                            ,United People's Freedom Alliance(UPFA),, : Buddhism
+                                Matara", : 10-10-1945,abeywardena_m@parliament.lk,"Hon. Mahinda Yapa Abeywardena , M.P.", : Landed Proprietor,United People's Freedom Alliance(UPFA), : Buddhism
+ : Married," 
+                                Galle", : 02-09-1963,abeywardena_v@parliament.lk,"Hon. Wajira Abeywardana, M.P.", : Engineer,United National Party (UNP), : Buddhism
+ : Married," 
+                                National List", : 07-06-1955,abeywardena_l@parliament.lk,"Hon. Lakshman Yapa Abeywardena, M.P.", : Landed Proprietor,United People's Freedom Alliance(UPFA), : Buddhism
+ : Married," 
+                                Puttalam", : 26-10-1963,sisira_a@parliament.lk,"Hon. Sisira Kumara Abeysekara, M.P.", : Businessman,United National Party (UNP), : Buddhism
+ : Married," 
+                                Kalutara", : 21-09-1966,abeygunawardana_r@parliament.lk,"Hon. Rohitha Abeygunawardana, M.P.", : Businessman,United People's Freedom Alliance(UPFA), : Buddhism
 ," 
-                                Kurunegala", : 09-10-1956,abeysinghe_a@parliament.lk,"No. 351/2, Muhandiram Weerathunga Mawatha,,Negombo Road,,Kurunegala.",0372234223,"Hon. Ashok Abeysinghe, M.P.",,"No. 288, 8L,Royal Gardens,,Rajagiriya.",0372234333                                                            ,United National Party (UNP),"
-                                Deputy Minister of Transport and Civil Aviation",
+                                Batticaloa", : 26-04-1970,yoheswaran_s@parliament.lk,"Hon. Seeniththamby Yoheswaran, M.P.",,Illankai Tamil Arasu Kadchi (ITAK), : Hindu
  : Married," 
-                                Gampaha", : 19-10-1967,alagiyawanna_l@parliament.lk,"Meevitigammana,,Uurapola.",0332282400,"Hon. Lasantha Alagiyawanna, M.P.", : Teacher,"No. 110/3,Wijerama,,Colombo 07.",002968064                                                            ,United People's Freedom Alliance(UPFA),"
-                                Deputy Minister of Finance and Mass Media", : Buddhism
+                                Ratnapura", : 16-11-1957,Wijethunga_a@parliament.lk,"Hon. A. A. Wijethunga, M.P.", : Businessman,United National Party (UNP), : Buddhism
  : Married," 
-                                Puttalam", : 26-10-1963,sisira_a@parliament.lk,"No. 15,,Sedawatta,,Chillaw.",0322221481,"Hon. Sisira Kumara Abeysekara, M.P.", : Businessman,,0322221481                                                            ,United National Party (UNP),, : Buddhism
+                                Monaragala", : 03-09-1959,berugoda_v@parliament.lk,"Hon. Vijitha Berugoda, M.P.", : Teacher,United People's Freedom Alliance(UPFA), : Buddhism
  : Married," 
-                                Galle", : 02-09-1963,abeywardena_v@parliament.lk,"No. 3,,34th Lane, Queens Road,,Colombo 03.",0755158158,"Hon. Wajira Abeywardana, M.P.", : Engineer,,,United National Party (UNP),"
-                                Minister of Home Affairs", : Buddhism
+                                National List", : 01-11-1958,zoysa_g@parliament.lk,"Hon. Wijith Wijayamuni Zoysa, M.P.", : Landed Proprietor; Businessman,United People's Freedom Alliance(UPFA), : Buddhism
  : Married," 
-                                National List", : 07-06-1955,abeywardena_l@parliament.lk,"""Lakmini Sanda"",,Beragama, Makandura,,Matara.",0412268089,"Hon. Lakshman Yapa Abeywardena, M.P.", : Landed Proprietor,,0412230849                                                            ,United People's Freedom Alliance(UPFA),, : Buddhism
- : Married," 
-                                National List", : 01-11-1958,zoysa_g@parliament.lk,"Block 10,House No. 1/6,,Lauris Road,,Colombo 04.",0573587909,"Hon. Wijith Wijayamuni Zoysa, M.P.", : Landed Proprietor; Businessman,,0552265472                                                            ,United People's Freedom Alliance(UPFA),"
-                                Minister of Fisheries & Aquatic Resources Development and Rural Economic Affairs", : Buddhism
+                                Kurunegala", : 18-01-1959,yapa_a@parliament.lk,"Hon. Anura Priyadharshana Yapa, M.P.", : Attorney-at-Law,United People's Freedom Alliance(UPFA), : Buddhism
 ," 
-                                Batticaloa", : 26-04-1970,yoheswaran_s@parliament.lk,"Pudukuduiruppu,,Valachchenai.",0652228273,"Hon. Seeniththamby Yoheswaran, M.P.",,,0652258252                                                            ,Illankai Tamil Arasu Kadchi (ITAK),, : Hindu
+                                Gampaha", : 04-08-1975,wijewardene_r@parliament.lk,"Hon. Ruwan Wijewardene, M.P.",,United National Party (UNP),
  : Married," 
-                                Kurunegala", : 18-01-1959,yapa_a@parliament.lk,"No. 560,,Bangalawa Junction,,Kotte.",0372281472,"Hon. Anura Priyadharshana Yapa, M.P.", : Attorney-at-Law,,0112503021                                                            ,United People's Freedom Alliance(UPFA),, : Buddhism
+                                Digamadulla", : 26-03-1969,wijewickrama_s@parliament.lk,"Hon. (Mrs.) Sriyani Wijewickrama, M.P.", : Attorney-at-Law,United People's Freedom Alliance(UPFA), : Buddhism
  : Married," 
-                                Digamadulla", : 26-03-1969,wijewickrama_s@parliament.lk,"No. 02,,Pandukabhaya Mawatha,,Ampara.",0632223799,"Hon. (Mrs.) Sriyani Wijewickrama, M.P.", : Attorney-at-Law,,0632222121                                                            ,United People's Freedom Alliance(UPFA),"
-                                State Minister of Provincial Councils, Local Government and Sports", : Buddhism
+                                Vanni", : 27-11-1972,rishad_b@parliament.lk,"Hon. Rishad Bathiudeen, M.P.", : Civil Engineer,United National Party (UNP), : Islam
+ : Married," 
+                                National List", : 30-04-1945,swaminathan_d@parliament.lk,"Hon. D. M. Swaminathan, M.P.", : Attorney-at-Law,United National Party (UNP), : Hindu
+ : Married," 
+                                Colombo", : 08-05-1943,lokuge_g@parliament.lk,"Hon. Gamini Lokuge, M.P.", : Businessman,United People's Freedom Alliance(UPFA), : Buddhism
+ : Married," 
+                                National List", : 03-05-1964,thilanga@parliament.lk,"Hon. Thilanga Sumathipala, M.P.",,United People's Freedom Alliance(UPFA), : Buddhism
+ : Married," 
+                                Badulla", : 12-05-1971,suresh_v@parliament.lk,"Hon. Vadivel Suresh, M.P.",,United National Party (UNP), : Hindu
+ : Married," 
+                                Colombo", : 10-01-1955,premajayantha_s@parliament.lk,"Hon. A. D. Susil Premajayantha, M.P.", : Attorney-at-Law,United People's Freedom Alliance(UPFA), : Buddhism
+ : Married," 
+                                Trincomalee", : 06-04-1961,punchinilame_s@parliament.lk,"Hon. Susantha Punchinilame, M.P.", : Landed Proprietor,United People's Freedom Alliance(UPFA), : Buddhism
+ : Married," 
+                                Jaffna", : 09-02-1964,sumanthiran_m@parliament.lk,"Hon. M. A. Sumanthiran, M.P.", : Attorney-at-Law,Illankai Tamil Arasu Kadchi (ITAK), : Christianity
+ : Married," 
+                                Anuradhapura", : 24-02-1953,mutukumarana_s@parliament.lk,"Hon. S. C. Mutukumarana, M.P.", : Farming,United People's Freedom Alliance(UPFA), : Buddhism
+ : Married," 
+                                Mahanuwara",,lucky_j@parliament.lk,"Hon. Lucky Jayawardana, M.P.",,United National Party (UNP),
+ : Married," 
+                                Kalutara", : 21-04-1977,nalinda_j@parliament.lk,"Hon. (Dr.) Nalinda Jayathissa, M.P.", : Medical Practitioner,Janatha Vimukthi Peramuna (JVP), : Buddhism
+ : Married," 
+                                National List", : 29-09-1940,jayasuriya_k@parliament.lk,"Hon. Karu Jayasuriya, M.P.", : Company Chairman,United National Party (UNP), : Buddhism
+ : Married," 
+                                Monaragala", : 29-07-1952,jayasena_s@parliament.lk,"Hon. (Mrs.) Sumedha G. Jayasena, M.P.",,United People's Freedom Alliance(UPFA), : Buddhism
+ : Married," 
+                                Ratnapura", : 16-11-1974,jayasekara_p@parliament.lk,"Hon. Premalal Jayasekara, M.P.", : Businessman,United People's Freedom Alliance(UPFA), : Buddhism
+ : Married," 
+                                Kurunegala", : 12-06-1969,jayasekara_d@parliament.lk,"Hon. Dayasiri Jayasekara, M.P.", : Attorney-at-Law,United People's Freedom Alliance(UPFA), : Buddhism
 ," 
-                                Gampaha", : 04-08-1975,wijewardene_r@parliament.lk,"No. 36,,Hyde Park Corner,,Colombo 02.",0112489895,"Hon. Ruwan Wijewardene, M.P.",,,0112552817                                                            ,United National Party (UNP),"
-                                State  Minister of Defence",
+                                Mahanuwara", : 22-12-1985,anuradha_j@parliament.lk,"Hon. Anuradha Jayaratne, M.P.",,United People's Freedom Alliance(UPFA),
  : Married," 
-                                National List", : 07-01-1971,thowfeek_m@parliament.lk,"No. 229/1,,Thalawathugoda Road,,Pita Kotte.",0262236166,"Hon. M. S. Thowfeek, M.P.",,,0773753653                                                            ,United National Party (UNP),, : Islam
+                                Puttalam", : 27-09-1964,piyankara_j@parliament.lk,"Hon. Piyankara Jayaratne, M.P.",,United People's Freedom Alliance(UPFA), : Buddhism
  : Married," 
-                                National List", : 04-01-1941,thurai_kt@parliament.lk,"No. 204/06,,Lower Road,,Trincomalee.",0262227715,"Hon. K. Thurairetnasingam, M.P.", : Divisional Director of Education,"No. 2D, Summit Flats,Keppitipola Mawatha,,Colombo 05.",0112507650                                                            ,Illankai Tamil Arasu Kadchi (ITAK),, : Hindu
- : Married," 
-                                Monaragala", : 03-09-1959,berugoda_v@parliament.lk,"Udabubula,,Bibila.",0552265774,"Hon. Vijitha Berugoda, M.P.", : Teacher,"C 27,MP's Housing Scheme,Madiwela",0718127480                                                            ,United People's Freedom Alliance(UPFA),, : Buddhism
- : Married," 
-                                Nuwara - Eliya", : 29-05-1964,thondaman_a@parliament.lk,"No. 72,,Ananda Coomaraswamy Mawatha,,Colombo 07.",0112665809,"Hon. Arumugan Thondaman, M.P.",,,0112698181                                                            ,United People's Freedom Alliance(UPFA),, : Hindu
- : Married," 
-                                Nuwara - Eliya", : 10-01-1967,thigambaram_p@parliament.lk,"Ministry of Hill Country New Villages, Infrastruct,No. 45, St. Michels Road,,Colombo 03.",0712151734,"Hon. Palany Thigambaram, M.P.", : Businessman,,0112581185                                                            ,United National Party (UNP),"
-                                Minister of Hill Country New Villages, Infrastructure and Community Development", : Hindu
- : Married," 
-                                National List", : 30-04-1945,swaminathan_d@parliament.lk,"Ministry of Prisons Reforms, Rehabilitation, Reset,356 B, Galle Road,,Colombo 03.",0112334043,"Hon. D. M. Swaminathan, M.P.", : Attorney-at-Law,,0112884959                                                            ,United National Party (UNP),"
-                                Minister of Resettlement, Rehabilitation, Northern Development & Hindu Religious Affairs", : Hindu
- : Married," 
-                                Kurunegala", : 24-02-1946,nawinne_s@parliament.lk,"C-D - 89,,Hector Kobbekaduwa Mawatha,,Colombo 07",0372267383,"Hon. S. B. Nawinne, M.P.", : Landed Proprietor,,0112679495                                                            ,United National Party (UNP),"
-                                Minister of Internal Affairs & Wayamba Development", : Buddhism
- : Married," 
-                                Badulla", : 12-05-1971,suresh_v@parliament.lk,"No.20/10,,Bandaranayake Mawatha,,Badulla.",0557200494,"Hon. Vadivel Suresh, M.P.",,,0557200319                                                            ,United National Party (UNP),, : Hindu
- : Married," 
-                                Colombo", : 08-05-1943,lokuge_g@parliament.lk,"157/10 A,,Mawittara,,Piliyandala.",0112348757,"Hon. Gamini Lokuge, M.P.", : Businessman,,0112700277                                                            ,United People's Freedom Alliance(UPFA),, : Buddhism
- : Married," 
-                                Anuradhapura", : 24-02-1953,mutukumarana_s@parliament.lk,"Katiyawa Road,,Eppawala",0252249206,"Hon. S. C. Mutukumarana, M.P.", : Farming,"Katiyawa Road,Eppawala.",0252249206                                                            ,United People's Freedom Alliance(UPFA),, : Buddhism
+                                Gampaha", : 02-11-1965,sisira_j@parliament.lk,"Hon. Sisira Jayakody, M.P.", : Attorney-at-Law,United People's Freedom Alliance(UPFA), : Buddhism
 ," 
-                                Gampaha",,lanza_n@parliament.lk,"No. 6,,Lewis Place,,Negombo.",031-331500,"Hon. Nimal Lanza, M.P.",,,031-3315000                                                            ,United People's Freedom Alliance(UPFA),,
+                                National List",,jayampathy_w@parliament.lk,"Hon. (Dr.) Jayampathy Wickramaratne, M.P.",,United National Party (UNP),
  : Married," 
-                                Mahanuwara",,lucky_j@parliament.lk,"No.271/11,,Heerassagala,,Kandy.",0813839277,"Hon. Lucky Jayawardana, M.P.",,,,United National Party (UNP),"
-                                State Minister of City Planning and Water Supply",
+                                Kurunegala", : 05-06-1974,jayamaha_n@parliament.lk,"Hon. Nalin Bandara Jayamaha, M.P.",,United National Party (UNP), : Buddhism
  : Married," 
-                                Kalutara", : 21-04-1977,nalinda_j@parliament.lk,"No. 41,,Hospital Road,,Homagama.",0718100605,"Hon. (Dr.) Nalinda Jayathissa, M.P.", : Medical Practitioner,,0112785612                                                            ,Janatha Vimukthi Peramuna (JVP),, : Buddhism
+                                Galle", : 31-01-1971,muthuhettigamage_n@parliament.lk,"Hon. Nishantha Muthuhettigamage, M.P.",,United People's Freedom Alliance(UPFA), : Buddhism
  : Married," 
-                                National List", : 29-09-1940,jayasuriya_k@parliament.lk,"No. 2,,Amarasekera Mawatha,,Colombo 05.",,"Hon. Karu Jayasuriya, M.P.", : Company Chairman,,0112552072                                                            ,United National Party (UNP),"
-                                Speaker", : Buddhism
+                                Digamadulla", : 06-09-1971,harees_h@parliament.lk,"Hon. H. M. M. Harees, M.P.", : Attorney-at-Law,United National Party (UNP), : Islam
  : Married," 
-                                Monaragala", : 29-07-1952,jayasena_s@parliament.lk,"Wellawaya Road,,Monaragala.",0552276179,"Hon. (Mrs.) Sumedha G. Jayasena, M.P.",,"6/2,No. 10, Loris Avenue,,Colombo 04 .",0112585523                                                            ,United People's Freedom Alliance(UPFA),, : Buddhism
+                                Polonnaruwa", : 01-06-1962,sidney_j@parliament.lk,"Hon. Anura Sidney Jayarathne, M.P.", : Farming,United National Party (UNP), : Buddhism
  : Married," 
-                                Ratnapura", : 16-11-1974,jayasekara_p@parliament.lk,"“Gampathi Nivasa”,,Halkandaliya,,Nivithigala",0452279875,"Hon. Premalal Jayasekara, M.P.", : Businessman,,0452279173                                                            ,United People's Freedom Alliance(UPFA),, : Buddhism
+                                National List", : 02-07-1969,musthapha_f@parliament.lk,"Hon. Faiszer Musthapha, M.P.", : Attorney-at-Law,United People's Freedom Alliance(UPFA), : Islam
  : Married," 
-                                Kurunegala", : 12-06-1969,jayasekara_d@parliament.lk,"No. 52/1,1/3,,Rosmead Place,,Colombo 07.",0372291841,"Hon. Dayasiri Jayasekara, M.P.", : Attorney-at-Law,,0112692698                                                            ,United People's Freedom Alliance(UPFA),, : Buddhism
+                                National List", : 15-05-1972,nazeer_m@parliament.lk,"Hon. Mohamadu Nazeer, M.P.", : Businessman,United National Party (UNP), : Islam
  : Married," 
-                                Puttalam", : 27-09-1964,piyankara_j@parliament.lk,"""Nayanadhara"",,Aanamaduwa.",0322263345,"Hon. Piyankara Jayaratne, M.P.",,"""Nayanadhara""Anamaduwa",0322263345                                                            ,United People's Freedom Alliance(UPFA),, : Buddhism
+                                National List", : 23-06-1941,sirinal_m@parliament.lk,"Hon. Sirinal de Mel, M.P.",,United National Party (UNP),
+ : Married," 
+                                Gampaha", : 25-06-1963,mannapperuma_a@parliament.lk,"Hon. Ajith Mannapperuma, M.P.",,United National Party (UNP), : Buddhism
+ : Married," 
+                                National List",,,"Hon. Tilak Marapana, M.P.", : Attorney-at-Law,United National Party (UNP),
+ : Married," 
+                                Monaragala", : 25-08-1954,bandara_r@parliament.lk,"Hon. R. M. Ranjith Madduma Bandara, M.P.", : Planter; Businessman,United National Party (UNP), : Buddhism
+ : Married," 
+                                Jaffna", : 23-11-1972,maheswaran_v@parliament.lk,"Hon. (Mrs.) Vijayakala Maheswaran, M.P.",,United National Party (UNP), : Hindu
 ," 
-                                Mahanuwara", : 22-12-1985,anuradha_j@parliament.lk,"Doluwa,,Gampola.",0718009009,"Hon. Anuradha Jayaratne, M.P.",,"No. 172/14E,Polhengoda Road,,Colombo 05.",0719185185                                                            ,United People's Freedom Alliance(UPFA),,
- : Married," 
-                                Polonnaruwa", : 01-06-1962,sidney_j@parliament.lk,"No. 276/6,,Stage 1,,Medirigiriya.",0272248184,"Hon. Anura Sidney Jayarathne, M.P.", : Farming,,0755911153                                                            ,United National Party (UNP),, : Buddhism
- : Married," 
-                                Kurunegala", : 05-06-1974,jayamaha_n@parliament.lk,"No. 28,,Chilaw Road,,Bingiriya.",0372284690,"Hon. Nalin Bandara Jayamaha, M.P.",,,0322245455                                                            ,United National Party (UNP),"
-                                Deputy Minister of Public Administration & Management and Law & Order", : Buddhism
- : Married," 
-                                Gampaha", : 02-11-1965,sisira_j@parliament.lk,"No. 43-11, Thekkawatta Road,,Sinharamulla,,Kelaniya.",0112910668,"Hon. Sisira Jayakody, M.P.", : Attorney-at-Law,,0773073518                                                            ,United People's Freedom Alliance(UPFA),, : Buddhism
-," 
-                                National List",,jayampathy_w@parliament.lk,"No. 231/12A, First Lane,,Kalapaluwawa,,Rajagiriya.",0777885413,"Hon. (Dr.) Jayampathy Wickramaratne, M.P.",,,0777885413                                                            ,United National Party (UNP),,
- : Married," 
-                                Monaragala", : 25-03-1954,ananda_k@parliament.lk,"Dimbulamure,,Wellawaya.",0552274833,"Hon. J. M. Ananda Kumarasiri, M.P.", : Company Director,,0112885318                                                            ,United National Party (UNP),"
-                                Deputy Speaker and the Chair of Committees", : Buddhism
-," 
-                                Gampaha",,kavinda_j@parliament.lk,"555, Dr. Jayalath Jayawardana Mawatha,,Weligampitiya,,Ja-ela.",0719909555,"Hon. (Dr.) Kavinda Heshan Jayawardana, M.P.",,,0719909555                                                            ,United National Party (UNP),,
- : Married," 
-                                Mahanuwara", : 02-02-1948,kiriella_l@parliament.lk,"No. 40,,Dangolla Road,,Kandy.",0812203008,"Hon. Lakshman Kiriella, M.P.", : Attorney-at-Law,"No.121/1, Pahalawela Road,Palawatta,,Battaramulla.",0813848600                                                            ,United National Party (UNP),"
-                                Minister of Public Enterprise & Kandy City Development and Leader of the House of Parliament", : Buddhism
+                                Digamadulla", : 28-10-1965,mansoor_m@parliament.lk,"Hon. Muhammad Ibrahim Muhammad Mansoor, M.P.",,United National Party (UNP),
  : Single," 
-                                Galle", : 21-08-1962,karunatileka_g@parliament.lk,"No. 119,,Wijerama Mawatha,,Colombo 07.",0912296711,"Hon. Gayantha Karunatileka, M.P.", : Landed Proprietor,,0112626143                                                            ,United National Party (UNP),"
-                                Minister of Lands and Parliamentary Reforms and Chief Government Whip", : Buddhism
+                                National List", : 19-03-1949,malik_s@parliament.lk,"Hon. Malik Samarawickrama, M.P.", : Businessman,United National Party (UNP), : Buddhism
  : Married," 
-                                Colombo", : 19-02-1963,karunanayake_r@parliament.lk,"No. 1291/6,,Rajamalwatta  Road,,Battaramulla.",0112872287,"Hon. Ravi Karunanayake, M.P.", : Chartered Accountant,,0112872287                                                            ,United National Party (UNP),, : Roman Catholicism
+                                Trincomalee", : 25-04-1957,mahrooff_a@parliament.lk,"Hon. Abdullah Mahrooff, M.P.", : Businessman,United National Party (UNP), : Islam
  : Married," 
-                                Kurunegala", : 23-05-1973,kariyawasam_a@parliament.lk,"No. 306, (D.02),,Bauddhaloka Mawatha,,Colombo 07.",0372284244,"Hon. Akila Viraj Kariyawasam, M.P.", : Lawyer,,0372282444                                                            ,United National Party (UNP),"
-                                Minister of Education", : Buddhism
+                                Mahanuwara", : 16-01-1973,kumar_v@parliament.lk,"Hon. Velu Kumar, M.P.",,United National Party (UNP), : Hindu
  : Married," 
-                                Kegalle", : 19-05-1959,hashim_k@parliament.lk,"No 45,Hemmathagama Road,,Mawanella",0352246461,"Hon. Kabir Hashim, M.P.", : Consultant Economist,"No 156Lake Drive,,Colombo 08.",0112689649                                                            ,United National Party (UNP),"
-                                Minister of Highways & Road Development", : Islam
+                                Nuwara - Eliya", : 29-09-1973,thilakarajah_m@parliament.lk,"Hon. Mylvaganam Thilakarajah, M.P.",,United National Party (UNP), : Hindu
+," 
+                                Colombo",,rahuman_m@parliament.lk,"Hon. Mujibur Rahuman, M.P.",,United National Party (UNP), : Islam
+," 
+                                Trincomalee", : 01-09-1983,imran_m@parliament.lk,"Hon. Imran Maharoof, M.P.",,United National Party (UNP),
+," 
+                                Gampaha",,kavinda_j@parliament.lk,"Hon. (Dr.) Kavinda Heshan Jayawardana, M.P.",,United National Party (UNP),
+ : Married," 
+                                Monaragala", : 25-03-1954,ananda_k@parliament.lk,"Hon. J. M. Ananda Kumarasiri, M.P.", : Company Director,United National Party (UNP), : Buddhism
+ : Married," 
+                                Mahanuwara", : 02-02-1948,kiriella_l@parliament.lk,"Hon. Lakshman Kiriella, M.P.", : Attorney-at-Law,United National Party (UNP), : Buddhism
+ : Married," 
+                                Colombo", : 19-02-1963,karunanayake_r@parliament.lk,"Hon. Ravi Karunanayake, M.P.", : Chartered Accountant,United National Party (UNP), : Roman Catholicism
  : Single," 
-                                Matara", : 27-04-1982,kanchana_w@parliament.lk,"No. 06, Middle Road,,Fort,,Matara.",0412222798,"Hon. Kanchana Wijesekera, M.P.", : Businessman,,0777386896                                                            ,United People's Freedom Alliance(UPFA),, : Buddhism
+                                Galle", : 21-08-1962,karunatileka_g@parliament.lk,"Hon. Gayantha Karunatileka, M.P.", : Landed Proprietor,United National Party (UNP), : Buddhism
  : Married," 
-                                Kegalle", : 30-06-1964,sujith_s@parliament.lk,"Francis Perera Mawatha,,Yatiyanthota.",0365712535,"Hon. Sujith Sanjaya Perera, M.P.", : Businessman,"No.245,Polhengoda Road,,Colombo 06.",0777512535                                                            ,United National Party (UNP),, : Buddhism
-," 
-                                Puttalam",,perera_s@parliament.lk,"Deepa Sevana,,Arachchikattuwa.",0777449492,"Hon. Sanath Nishantha Perera, M.P.",,,0777449492                                                            ,United People's Freedom Alliance(UPFA),,
+                                Kurunegala", : 23-05-1973,kariyawasam_a@parliament.lk,"Hon. Akila Viraj Kariyawasam, M.P.", : Lawyer,United National Party (UNP), : Buddhism
  : Married," 
-                                Digamadulla", : 28-05-1971,kodeeswaran_k@parliament.lk,"No. 05,,Vivekanantha Road,,Akkaraipattu 07.",0672052477,"Hon. Kaveendiran Kodeeswaran, M.P.", : Businessman,,0672052477                                                            ,Illankai Tamil Arasu Kadchi (ITAK),, : Hindu
-," 
-                                Vanni", : 11-01-1971,masthan_kk@parliament.lk,"223/3, Kandy Road,,Thekkawaththa,,Vavuniya.",0773974090,"Hon. K. Kader Masthan, M.P.",,"No. 24, Hampden Lane,Wellewatta,,Colombo 06.",0777488222                                                            ,United People's Freedom Alliance(UPFA),"
-                                Deputy Minister of Resettlement, Rehabilitation and Northern Development", : Islam
-," 
-                                Badulla",,wijesiri_c@parliament.lk,"Kabiliwella North,,Navodya Mawatha,,Bandarawela.",0572232037,"Hon. Chaminda Wijesiri, M.P.",,,,United National Party (UNP),,
- : Married," 
-                                Galle", : 31-01-1971,muthuhettigamage_n@parliament.lk,"25, New Lane,,Makuluwa,,Galle.",0912248665,"Hon. Nishantha Muthuhettigamage, M.P.",,,0912248664                                                            ,United People's Freedom Alliance(UPFA),"
-                                Deputy Minister of Ports and Shipping Affairs", : Buddhism
- : Married," 
-                                National List", : 02-07-1969,musthapha_f@parliament.lk,"No. C 51,,Keppetipola Mawatha,,Colombo 09.",0812203700,"Hon. Faiszer Musthapha, M.P.", : Attorney-at-Law,,0112671447                                                            ,United People's Freedom Alliance(UPFA),"
-                                Minister of Provincial Councils,  Local Government and Sports", : Islam
- : Married," 
-                                Digamadulla", : 06-09-1971,harees_h@parliament.lk,"No. 11B,,MPP Housing Scheme, Madiwela,,Sri Jayewardenepura, Kotte.",0672223462,"Hon. H. M. M. Harees, M.P.", : Attorney-at-Law,,0112778491                                                            ,United National Party (UNP),"
-                                Deputy Minister of Public Enterprise & Kandy City Development", : Islam
- : Married," 
-                                National List", : 15-05-1972,nazeer_m@parliament.lk,"'Ashraff Memorial' Playground Road,,Attalaichenai - 05.",0672278290,"Hon. Mohamadu Nazeer, M.P.", : Businessman,"1C/F1/U8, K. Cyril Perera Mawatha,Kotahena,,Colombo 13.",0777420972                                                            ,United National Party (UNP),, : Islam
- : Married," 
-                                National List", : 23-06-1941,sirinal_m@parliament.lk,"No. 97,,Colombo Road,,Piliyandala.",0112865430,"Hon. Sirinal de Mel, M.P.",,,0112614283                                                            ,United National Party (UNP),,
- : Married," 
-                                National List",,,"No. 13,,Pelawatta Road,,Nugegoda.",0770352116,"Hon. Tilak Marapana, M.P.", : Attorney-at-Law,,0112853397                                                            ,United National Party (UNP),"
-                                Minister of Foreign Affairs",
- : Married," 
-                                Gampaha", : 25-06-1963,mannapperuma_a@parliament.lk,"No. 27,,Parakrama Road,,Gampaha.",0332231468,"Hon. Ajith Mannapperuma, M.P.",,,0332223167                                                            ,United National Party (UNP),"
-                                Deputy  Minister of Environment", : Buddhism
+                                Kegalle", : 19-05-1959,hashim_k@parliament.lk,"Hon. Kabir Hashim, M.P.", : Consultant Economist,United National Party (UNP), : Islam
  : Single," 
-                                National List", : 19-03-1949,malik_s@parliament.lk,"No: 50/24,,Bullers Lane,,Colombo 07",,"Hon. Malik Samarawickrama, M.P.", : Businessman,,0112559333                                                            ,United National Party (UNP),"
-                                Minister of Development Strategies and International Trade", : Buddhism
+                                Matara", : 27-04-1982,kanchana_w@parliament.lk,"Hon. Kanchana Wijesekera, M.P.", : Businessman,United People's Freedom Alliance(UPFA), : Buddhism
  : Married," 
-                                Jaffna", : 23-11-1972,maheswaran_v@parliament.lk,"No. 32,,36th Lane, Wellawatta,,Colombo-06.",0212221877,"Hon. (Mrs.) Vijayakala Maheswaran, M.P.",,"No. 32,36th Lane, Wellawatta,,Colombo-06.",0112363591                                                            ,United National Party (UNP),, : Hindu
- : Married," 
-                                Monaragala", : 25-08-1954,bandara_r@parliament.lk,"10/4,,Medagama,,Bibila.",0555672634,"Hon. R. M. Ranjith Madduma Bandara, M.P.", : Planter; Businessman,"No. 10/4,Pothuwil Road,,Monaragala.",0552277489                                                            ,United National Party (UNP),"
-                                Minister of Public Administration & Management and Law & Order", : Buddhism
- : Married," 
-                                Nuwara - Eliya", : 29-09-1973,thilakarajah_m@parliament.lk,"B - 1, MPP Housing Scheme,,Madiwela.,Sri Jayewardenepura, Kotte.",0777239765,"Hon. Mylvaganam Thilakarajah, M.P.",,,0777239765                                                            ,United National Party (UNP),, : Hindu
+                                Kegalle", : 30-06-1964,sujith_s@parliament.lk,"Hon. Sujith Sanjaya Perera, M.P.", : Businessman,United National Party (UNP), : Buddhism
 ," 
-                                Digamadulla", : 28-10-1965,mansoor_m@parliament.lk,"271/1,,3rd Cross Street,,Sammanthurai 9",0777394785,"Hon. Muhammad Ibrahim Muhammad Mansoor, M.P.",,,0777394785                                                            ,United National Party (UNP),,
+                                Puttalam",,perera_s@parliament.lk,"Hon. Sanath Nishantha Perera, M.P.",,United People's Freedom Alliance(UPFA),
  : Married," 
-                                Trincomalee", : 25-04-1957,mahrooff_a@parliament.lk,"Hijra Road,,Kinniya.",0262236227,"Hon. Abdullah Mahrooff, M.P.", : Businessman,,0262236227/0262236217                                                            ,United National Party (UNP),, : Islam
+                                Digamadulla", : 28-05-1971,kodeeswaran_k@parliament.lk,"Hon. Kaveendiran Kodeeswaran, M.P.", : Businessman,Illankai Tamil Arasu Kadchi (ITAK), : Hindu
  : Married," 
-                                Mahanuwara", : 16-01-1973,kumar_v@parliament.lk,"No. 83A,,Heerassagala Road,,Kandy.",,"Hon. Velu Kumar, M.P.",,,0777316981                                                            ,United National Party (UNP),, : Hindu
+                                Kegalle", : 04-11-1948,premadasa_c@parliament.lk,"Hon. A. D. Premadasa, M.P.", : Businessman,United National Party (UNP), : Buddhism
+ : Married," 
+                                Hambantota", : 12-01-1967,premadasa_s@parliament.lk,"Hon. Sajith Premadasa, M.P.",,United National Party (UNP), : Buddhism
 ," 
-                                Colombo",,rahuman_m@parliament.lk,"No. 107,,St. Joseph Street,,Colombo 14.",0112335613,"Hon. Mujibur Rahuman, M.P.",,,0773312010                                                            ,United National Party (UNP),, : Islam
- : Married," 
-                                Ratnapura", : 03-01-1939,nanayakkara_v@parliament.lk,"No.A21, MPP's Housing scheme,,Madiwela,,Kotte.",0112587494,"Hon. Vasudeva Nanayakkara, M.P.", : Attorney-at-Law,,0362258540                                                            ,United People's Freedom Alliance(UPFA),,
-," 
-                                Trincomalee", : 01-09-1983,imran_m@parliament.lk,"Mancholai,,Kinniya 3,,Trincomalee.",0262236699,"Hon. Imran Maharoof, M.P.",,,0262236699                                                            ,United National Party (UNP),,
- : Married," 
-                                Galle", : 24-09-1977,nanayakkara_m@parliament.lk,"Panagamuwa,,Wanchawala,,Galle.",0912226775,"Hon. Manusha Nanayakkara, M.P.", : Journalist,,0912226775                                                            ,United People's Freedom Alliance(UPFA),"
-                                Deputy Minister of Telecommunication, Digital Infrastructure and Foreign Employment", : Buddhism
-," 
-                                Gampaha", : 20-02-1982,chathura_ss@parliament.lk,"No. 146/20,,Havelock Road,,Colombo 05.",0112599399,"Hon. Chathura Sandeepa Senaratne, M.P.",,,0112599399                                                            ,United National Party (UNP),,
- : Married," 
-                                Trincomalee", : 06-04-1961,punchinilame_s@parliament.lk,"No. 43/2, Suramya Mawatha,,Pamunuwa Road,,Maharagama.",0262222221,"Hon. Susantha Punchinilame, M.P.", : Landed Proprietor,,0112160544                                                            ,United People's Freedom Alliance(UPFA),, : Buddhism
- : Married," 
-                                Nuwara - Eliya", : 29-03-1948,piyadasa_k@parliament.lk,"No. 19,,Buwanekaba Road,,Gampola.",0812352798,"Hon. K. K. Piyadasa, M.P.", : Businessman,,,United National Party (UNP),,
-," 
-                                Polonnaruwa",,nalaka_c@parliament.lk,"No.13,,Hospital Junction,,Polonnaruwa.",,"Hon. Nalaka Prasad Colonne, M.P.",,,,United National Party (UNP),,
- : Married," 
-                                Kegalle", : 04-11-1948,premadasa_c@parliament.lk,"No. 55/6,,Water Tank Road,,Rambukkana.",0352266686,"Hon. A. D. Premadasa, M.P.", : Businessman,,0352266685                                                            ,United National Party (UNP),"
-                                State Minister of Plantation Industries", : Buddhism
- : Married," 
-                                Hambantota", : 12-01-1967,premadasa_s@parliament.lk,"66/23, ""Sucharitha Sanasuma"",Wellawaya Road,,Weerawila.",0472238011,"Hon. Sajith Premadasa, M.P.",,"No.11/01,  Tower B,Royal Park Appartment, Lake Drive,,Rajagiriya.",0472238010                                                            ,United National Party (UNP),"
-                                Minister of Housing and Construction", : Buddhism
- : Married," 
-                                Colombo", : 10-01-1955,premajayantha_s@parliament.lk,"No. 123/1, Station Road,,Gangodawila,,Nugegoda.",0112812181,"Hon. A. D. Susil Premajayantha, M.P.", : Attorney-at-Law,,0112199119                                                            ,United People's Freedom Alliance(UPFA),, : Buddhism
+                                Vanni", : 11-01-1971,masthan_kk@parliament.lk,"Hon. K. Kader Masthan, M.P.",,United People's Freedom Alliance(UPFA), : Islam
  : Single," 
-                                Puttalam", : 05-10-1971,niroshan_p@parliament.lk,"""Preethika"",Wennappuwa.",0112587494,"Hon. Niroshan Perera, M.P.", : Engineer,,0312255213                                                            ,United National Party (UNP),"
-                                State  Minister of National Policies and Economic Affairs", : Roman Catholicism
+                                Puttalam", : 05-10-1971,niroshan_p@parliament.lk,"Hon. Niroshan Perera, M.P.", : Engineer,United National Party (UNP), : Roman Catholicism
  : Married," 
-                                Matale", : 22-07-1963,perera_l@parliament.lk,"No. 42,,M.C. Road,,Matale.",0662224022,"Hon. Lakshman Wasantha Perera, M.P.", : Attorney-at-Law,"No. 96/4,Makola South,,Makola.",0662224002                                                            ,United People's Freedom Alliance(UPFA),, : Buddhism
+                                Nuwara - Eliya", : 29-03-1948,piyadasa_k@parliament.lk,"Hon. K. K. Piyadasa, M.P.", : Businessman,United National Party (UNP),
  : Married," 
-                                Kurunegala", : 29-01-1941,perera_j@parliament.lk,"Maholawa,,Bopitiya.",0372288841,"Hon. Gamini Jayawickrama Perera, M.P.", : Landed Proprietor,"No.80, Kuruppu Road,Borella,,Colombo 08.",0112694630                                                            ,United National Party (UNP),"
-                                Minister of  Buddhasasana", : Buddhism
+                                National List", : 19-04-1962,perera_d@parliament.lk,"Hon. Dilan Perera, M.P.", : Attorney-at-Law,United People's Freedom Alliance(UPFA), : Buddhism
  : Married," 
-                                Kalutara", : 02-12-1967,perera_a@parliament.lk,"169, A/2,,School Lane,,Bandaragama.",0382243261,"Hon. Ajith P. Perera, M.P.", : Attorney-at-Law,,0382290692                                                            ,United National Party (UNP),"
-                                State Minister of Power and Renewable Energy", : Buddhism
+                                Kurunegala", : 29-01-1941,perera_j@parliament.lk,"Hon. Gamini Jayawickrama Perera, M.P.", : Landed Proprietor,United National Party (UNP), : Buddhism
  : Married," 
-                                National List", : 19-04-1962,perera_d@parliament.lk,"No. 30,,Bandaranayake Mawatha,,Badulla.",0552222813,"Hon. Dilan Perera, M.P.", : Attorney-at-Law,,0112546872                                                            ,United People's Freedom Alliance(UPFA),, : Buddhism
+                                Matale", : 22-07-1963,perera_l@parliament.lk,"Hon. Lakshman Wasantha Perera, M.P.", : Attorney-at-Law,United People's Freedom Alliance(UPFA), : Buddhism
  : Married," 
-                                Matara", : 17-03-1974,pathirana_b@parliament.lk,"No. 99,,Rahula Road,Matara",0412223865,"Hon. Buddhika Pathirana, M.P.", : Journalist,,041-2230946                                                            ,United National Party (UNP),"
-                                Deputy Minister of Industry and Commerce", : Buddhism
+                                Kalutara", : 02-12-1967,perera_a@parliament.lk,"Hon. Ajith P. Perera, M.P.", : Attorney-at-Law,United National Party (UNP), : Buddhism
 ," 
-                                Ratnapura", : 02-06-1968,paranawithana_k@parliament.lk,"1141/1, 2nd Lane,,Dhammodaya Mawatha,,Battaramulla.",0716835810,"Hon. Karunarathna Paranawithana, M.P.",,,0112554578                                                            ,United National Party (UNP),"
-                                Deputy Minister of Science, Technology, Research, Skills Development & Vocational Training and  Kandyan Heritage",
+                                Ratnapura", : 02-06-1968,paranawithana_k@parliament.lk,"Hon. Karunarathna Paranawithana, M.P.",,United National Party (UNP),
  : Single," 
-                                Galle", : 05-12-1969,pathirana_r@parliament.lk,"No. 70/1,,Silverine, Kithulampitiya Road,,Galle.",0912248505,"Hon. (Dr.) Ramesh Pathirana, M.P.", : Medical Practitioner,"No. 322/11A,Uthuwankanda Road,,Thalawathugoda.",0112773811                                                            ,United People's Freedom Alliance(UPFA),, : Buddhism
+                                Galle", : 05-12-1969,pathirana_r@parliament.lk,"Hon. (Dr.) Ramesh Pathirana, M.P.", : Medical Practitioner,United People's Freedom Alliance(UPFA), : Buddhism
  : Married," 
-                                Puttalam", : 08-09-1962,bandara_p@parliament.lk,"Chillaw Road,,Sangattikulama,,Aanamaduwa.",0323325634,"Hon. Palitha Range Bandara, M.P.", : Businessman,"United National Party Office,Puttalam Road,,Anamaduwa",0323324333                                                            ,United National Party (UNP),"
-                                State Minister of Irrigation and Water Resources & Disaster Management", : Buddhism
+                                Matara", : 17-03-1974,pathirana_b@parliament.lk,"Hon. Buddhika Pathirana, M.P.", : Journalist,United National Party (UNP), : Buddhism
 ," 
-                                National List", : 23-09-1972,malith_j@parliament.lk,"""Geethanjali"", Janahitha Mawatha,,Ramukkana,,Bandaragama.",0382290412,"Hon. Malith Jayathilake, M.P.",,"No. 482, Pannipitiya Road,Pelawatta,,Battaramulle.",0112786582                                                            ,United People's Freedom Alliance(UPFA),,
+                                National List", : 23-09-1972,malith_j@parliament.lk,"Hon. Malith Jayathilake, M.P.",,United People's Freedom Alliance(UPFA),
 ," 
-                                Kalutara", : 30-06-1970,piyal_n@parliament.lk,"Near Kandaviharaya,,Mullapitiya,,Beruwala.",0342270540,"Hon. Piyal Nishantha De Silva, M.P.",,,0342270540                                                            ,United People's Freedom Alliance(UPFA),,
+                                Gampaha",,lanza_n@parliament.lk,"Hon. Nimal Lanza, M.P.",,United People's Freedom Alliance(UPFA),
+," 
+                                Kalutara", : 30-06-1970,piyal_n@parliament.lk,"Hon. Piyal Nishantha De Silva, M.P.",,United People's Freedom Alliance(UPFA),
  : Married," 
-                                Jaffna", : 09-02-1964,sumanthiran_m@parliament.lk,"3/1,,Daya Road,,Colombo 06.",0112559352,"Hon. M. A. Sumanthiran, M.P.", : Attorney-at-Law,,0112366314                                                            ,Illankai Tamil Arasu Kadchi (ITAK),, : Christianity
+                                Puttalam", : 08-09-1962,bandara_p@parliament.lk,"Hon. Palitha Range Bandara, M.P.", : Businessman,United National Party (UNP), : Buddhism
  : Married," 
-                                National List", : 03-05-1964,thilanga@parliament.lk,"59,,Ananda Rajakaruna Mawatha,,Colombo 10.",0112697106,"Hon. Thilanga Sumathipala, M.P.",,,0112695963                                                            ,United People's Freedom Alliance(UPFA),, : Buddhism
+                                Ratnapura", : 03-01-1939,nanayakkara_v@parliament.lk,"Hon. Vasudeva Nanayakkara, M.P.", : Attorney-at-Law,United People's Freedom Alliance(UPFA),
  : Married," 
-                                Kegalle", : 01-05-1961,siyambalapitiya_r@parliament.lk,"Wendala,,Ruwanwella.",0352229577,"Hon. Ranjith Siyambalapitiya, M.P.",,,0362276155                                                            ,United People's Freedom Alliance(UPFA),"
-                                Minister of Power and Renewable Energy", : Buddhism
+                                Galle", : 24-09-1977,nanayakkara_m@parliament.lk,"Hon. Manusha Nanayakkara, M.P.", : Journalist,United People's Freedom Alliance(UPFA), : Buddhism
+," 
+                                Badulla",,wijesiri_c@parliament.lk,"Hon. Chaminda Wijesiri, M.P.",,United National Party (UNP),
  : Married," 
-                                Nuwara - Eliya", : 20-07-1943,sivalingam_m@parliament.lk,"No. 19,,Mount Mary Road,,Nuwara-Eliya.",0522223092,"Hon. Muthu Sivalingam, M.P.", : Trade Unionist,,2301357 / 8                                                            ,United People's Freedom Alliance(UPFA),"
-                                Deputy Minister of Social Welfare & Primary Industries", : Hindu
+                                Kurunegala", : 24-02-1946,nawinne_s@parliament.lk,"Hon. S. B. Nawinne, M.P.", : Landed Proprietor,United National Party (UNP), : Buddhism
+," 
+                                Polonnaruwa",,nalaka_c@parliament.lk,"Hon. Nalaka Prasad Colonne, M.P.",,United National Party (UNP),
  : Married," 
-                                Jaffna",,shritharan_s@parliament.lk,"No. 882, Arumugam Road,,Vaddakachchi,,Kilinochchi.",,"Hon. S. Shritharan, M.P.",,"No. 882,  Arumugam Road,Vaddakachichi,,Kilinochchi.",0213207584                                                            ,Illankai Tamil Arasu Kadchi (ITAK),, : Hindu
+                                Kegalle", : 01-05-1961,siyambalapitiya_r@parliament.lk,"Hon. Ranjith Siyambalapitiya, M.P.",,United People's Freedom Alliance(UPFA), : Buddhism
+ : Married," 
+                                Nuwara - Eliya", : 20-07-1943,sivalingam_m@parliament.lk,"Hon. Muthu Sivalingam, M.P.", : Trade Unionist,United People's Freedom Alliance(UPFA), : Hindu
+," 
+                                Gampaha", : 20-02-1982,chathura_ss@parliament.lk,"Hon. Chathura Sandeepa Senaratne, M.P.",,United National Party (UNP),
  : Single," 
-                                Vanni",,,"No. 16,,Haig Road,,Colombo 04.",0112586289,"Hon. Dharmalingam Sithadthan, M.P.", : Accountant,,0777952707                                                            ,Illankai Tamil Arasu Kadchi (ITAK),,
+                                Vanni",,,"Hon. Dharmalingam Sithadthan, M.P.", : Accountant,Illankai Tamil Arasu Kadchi (ITAK),
  : Married," 
-                                Batticaloa", : 20-12-1961,ameerali_s@parliament.lk,"Bazar Mosque Road,,Oddamavadi 01.",0652257303,"Hon. Ameer Ali Shihabdeen, M.P.",,"C/52,Keppetipola Mawatha,,Colombo 05.",0112588097                                                            ,United National Party (UNP),"
-                                Deputy Minister of Fisheries & Aquatic Resources Development and Rural Economic Affairs", : Islam
+                                Jaffna",,shritharan_s@parliament.lk,"Hon. S. Shritharan, M.P.",,Illankai Tamil Arasu Kadchi (ITAK), : Hindu
  : Married," 
-                                National List", : 28-10-1965,shanthi_s@parliament.lk,"No:278/3,,Barathinagar, Yogapuram,,Mallavi.",0774188975,"Hon. (Mrs.) Shanthi Sriskandarasa, M.P.",,,,Illankai Tamil Arasu Kadchi (ITAK),, : Hindu
+                                Batticaloa", : 20-12-1961,ameerali_s@parliament.lk,"Hon. Ameer Ali Shihabdeen, M.P.",,United National Party (UNP), : Islam
+ : Married," 
+                                National List", : 28-10-1965,shanthi_s@parliament.lk,"Hon. (Mrs.) Shanthi Sriskandarasa, M.P.",,Illankai Tamil Arasu Kadchi (ITAK), : Hindu
  : None," 
-                                Batticaloa", : 25-06-1956,aliz_m@parliament.lk,"Station Road,,Eravur 03.",0777887997,"Hon. Seyed Ali Zahir Moulana, M.P.",,"26/64 IVY Park,Hokandara Road,,Thalawathugoda.",0772565222                                                            ,Sri Lanka Muslim Congress (SLMC),"
-                                Deputy Minister of National Integration, Reconciliation and Official Languages", : Islam
+                                Batticaloa", : 25-06-1956,aliz_m@parliament.lk,"Hon. Seyed Ali Zahir Moulana, M.P.",,Sri Lanka Muslim Congress (SLMC), : Islam
  : Married," 
-                                Badulla", : 09-03-1957,senewiratne_l@parliament.lk,"No. 50  C, Keppetipala Road,Jawatta,,Colombo 05.",0552258304,"Hon. Lakshman Senewiratne, M.P.",,,,United People's Freedom Alliance(UPFA),"
-                                State Minister of Science, Technology, Research, Skills Development & Vocational Training and  Kandyan Heritage", : Buddhism
+                                Badulla", : 09-03-1957,senewiratne_l@parliament.lk,"Hon. Lakshman Senewiratne, M.P.",,United People's Freedom Alliance(UPFA), : Buddhism
  : Married," 
-                                Ratnapura", : 15-01-1941,senevirathne_wdj@parliament.lk,"No.3/2, Galpotta Road,,Koswatta Junction, Nawala,,Rajagiriya.",0452274142,"Hon. W. D. J. Senewiratne, M.P.", : Attorney-at-Law,,0112681075                                                            ,United People's Freedom Alliance(UPFA),, : Buddhism
+                                Ratnapura", : 15-01-1941,senevirathne_wdj@parliament.lk,"Hon. W. D. J. Senewiratne, M.P.", : Attorney-at-Law,United People's Freedom Alliance(UPFA), : Buddhism
  : Married," 
-                                Jaffna", : 27-10-1942,senathirajah_m@parliament.lk,"Mavittapuram,,Thellippalai.",0112384904,"Hon. Mavai S. Senathirajah, M.P.",,"241/5, W.A.Silva Mawatha,Wellawatte,,Colombo 06.",0212228269                                                            ,Illankai Tamil Arasu Kadchi (ITAK),, : Hindu
+                                Jaffna", : 27-10-1942,senathirajah_m@parliament.lk,"Hon. Mavai S. Senathirajah, M.P.",,Illankai Tamil Arasu Kadchi (ITAK), : Hindu
  : Single," 
-                                Colombo", : 13-12-1971,senasinghe_s@parliament.lk,"03,,Chelsea Gardens,,Colombo 03.",0112564436,"Hon. Sujeewa Senasinghe, M.P.",,,0112564436                                                            ,United National Party (UNP),"
-                                State Minister of International Trade", : Buddhism
+                                Colombo", : 13-12-1971,senasinghe_s@parliament.lk,"Hon. Sujeewa Senasinghe, M.P.",,United National Party (UNP), : Buddhism
  : Married," 
-                                Kalutara", : 29-05-1950,senaratne_r@parliament.lk,"No. 22B,Stanmore Crescent,Colombo 07.",0342229795,"Hon. (Dr.) Rajitha Senaratne, M.P.", : Dental Surgeon,,0342229795                                                            ,United National Party (UNP),"
-                                Minister of Health, Nutrition and Indigenous Medicine", : Buddhism
+                                Kalutara", : 29-05-1950,senaratne_r@parliament.lk,"Hon. (Dr.) Rajitha Senaratne, M.P.", : Dental Surgeon,United National Party (UNP), : Buddhism
  : Married," 
-                                Polonnaruwa", : 28-06-1973,senanayake_v@parliament.lk,"Office of the State Minister of Irrigation and Wat,District Secretariat Premises, New Town,,Polonnaruwa.",0332276976,"Hon. Vasantha Senanayake, M.P.", : Attorney-at-Law,,0777385146                                                            ,United National Party (UNP),"
-                                State Minister of Foreign Affairs", : Buddhism
+                                Polonnaruwa", : 28-06-1973,senanayake_v@parliament.lk,"Hon. Vasantha Senanayake, M.P.", : Attorney-at-Law,United National Party (UNP), : Buddhism
  : Married," 
-                                Anuradhapura", : 13-11-1976,semasinghe_s@parliament.lk,"No. 600/M,,Air Port Road,,Anuradhapura.",0112746937,"Hon. Shehan Semasinghe, M.P.", : Businessman,,0253241056                                                            ,United People's Freedom Alliance(UPFA),, : Buddhism
+                                Anuradhapura", : 13-11-1976,semasinghe_s@parliament.lk,"Hon. Shehan Semasinghe, M.P.", : Businessman,United People's Freedom Alliance(UPFA), : Buddhism
  : Married," 
-                                Trincomalee", : 05-02-1933,sampanthan_r@parliament.lk,"No. 176, Customs Road,,Trincomalee.",0262227520,"Hon. Rajavarothiam Sampanthan, M.P.", : Attorney-at-Law,"No. B 12,Stanmore Crescent,,Colombo 07.",0112559787                                                            ,Illankai Tamil Arasu Kadchi (ITAK),"
-                                Leader of the Opposition in Parliament", : Hindu
+                                Jaffna", : 15-12-1953,saravanapavan_e@parliament.lk,"Hon. E. Saravanapavan, M.P.",,Illankai Tamil Arasu Kadchi (ITAK), : Hindu
+," 
+                                Kalutara",,js_k@parliament.lk,"Hon. Jayantha Samaraweera, M.P.",,United People's Freedom Alliance(UPFA),
  : Married," 
-                                Jaffna", : 15-12-1953,saravanapavan_e@parliament.lk,"No.105,,Raja Veethy,,Kopay.",0213215292,"Hon. E. Saravanapavan, M.P.",,,0113443135                                                            ,Illankai Tamil Arasu Kadchi (ITAK),, : Hindu
+                                Trincomalee", : 05-02-1933,sampanthan_r@parliament.lk,"Hon. Rajavarothiam Sampanthan, M.P.", : Attorney-at-Law,Illankai Tamil Arasu Kadchi (ITAK), : Hindu
+," 
+                                National List",,sarath_f@parliament.lk,"Hon. Field Marshal Sarath Fonseka, M.P.",,United National Party (UNP), : Buddhism
+ : Married," 
+                                National List", : 30-01-1956,mahinda_s@parliament.lk,"Hon. Mahinda Samarasinghe, M.P.",,United People's Freedom Alliance(UPFA), : Buddhism
  : Single," 
-                                Matara", : 21-04-1956,samaraweera_m@parliament.lk,"Francis Samaraweera Mawatha,,Hakmana Road,,Matara.",,"Hon. Mangala Samaraweera, M.P.",,"No. 141/5, Galkanuwa Road,Gorakana,,Moratuwa.",0412222076                                                            ,United National Party (UNP),"
-                                Minister of Finance and Mass Media", : Buddhism
+                                Matara", : 21-04-1956,samaraweera_m@parliament.lk,"Hon. Mangala Samaraweera, M.P.",,United National Party (UNP), : Buddhism
+ : Married," 
+                                Matara", : 27-02-1968,ratnayaka_s@parliament.lk,"Hon. Sagala Ratnayaka, M.P.", : Landed Proprietor,United National Party (UNP), : Buddhism
+ : Married," 
+                                Vanni", : 03-09-1963,sivamohan_s@parliament.lk,"Hon. (Dr.) S. Sivamohan, M.P.", : Medical Practitioner,Illankai Tamil Arasu Kadchi (ITAK), : Hindu
 ," 
-                                National List",,sarath_f@parliament.lk,"No. 110/8, Minister's Official Quarters,,Wijerama Mawatha,,Colombo 07.",,"Hon. Field Marshal Sarath Fonseka, M.P.",,,,United National Party (UNP),"
-                                Minister of Sustainable Development,Wildlife and Regional Development", : Buddhism
+                                Batticaloa",,viyalanderan_s@parliament.lk,"Hon. S. Viyalanderan, M.P.",,Illankai Tamil Arasu Kadchi (ITAK),
 ," 
-                                Kalutara",,js_k@parliament.lk,"Mawala South,,Wadduwa.",0382294705,"Hon. Jayantha Samaraweera, M.P.",,,0382294705                                                            ,United People's Freedom Alliance(UPFA),,
- : Married," 
-                                National List", : 30-01-1956,mahinda_s@parliament.lk,"No. 53/2,,Torrington Mawatha,,Colombo 07.",0342247251,"Hon. Mahinda Samarasinghe, M.P.",,,0112584722                                                            ,United People's Freedom Alliance(UPFA),"
-                                Minister of Ports and Shipping", : Buddhism
- : Married," 
-                                Matara", : 27-02-1968,ratnayaka_s@parliament.lk,"UNP Office,,Isuru Uyana, Nayamulla,,Morawaka.",0417773700,"Hon. Sagala Ratnayaka, M.P.", : Landed Proprietor,"No. 06/01, 28th Lane,Off Flower Road,,Colombo 07.",0112372146                                                            ,United National Party (UNP),"
-                                Minister of Youth Affairs, Project Management and  Southern Development", : Buddhism
- : Married," 
-                                Vanni", : 03-09-1963,sivamohan_s@parliament.lk,"No.24 A,,Kalkuli,,Vavuniya.",,"Hon. (Dr.) S. Sivamohan, M.P.", : Medical Practitioner,,0772093213                                                            ,Illankai Tamil Arasu Kadchi (ITAK),, : Hindu
+                                Colombo", : 12-01-1977,marikkar_s@parliament.lk,"Hon. S. M. Marikkar, M.P.",,United National Party (UNP),
 ," 
-                                Batticaloa",,viyalanderan_s@parliament.lk,"No:10,,Dias Lane,,Batticaloa",,"Hon. S. Viyalanderan, M.P.",,,0774595807                                                            ,Illankai Tamil Arasu Kadchi (ITAK),,
- : Married," 
-                                Vanni", : 27-11-1972,rishad_b@parliament.lk,"37 C,,Stanmore Crescent,,Colombo 07.",0112503889,"Hon. Rishad Bathiudeen, M.P.", : Civil Engineer,,0112503889                                                            ,United National Party (UNP),"
-                                Minister of Industry and Commerce", : Islam
+                                Matara", : 16-05-1981,premarathna_s@parliament.lk,"Hon. S. Premarathna, M.P.",,United People's Freedom Alliance(UPFA),
 ," 
-                                Matara", : 16-05-1981,premarathna_s@parliament.lk,"No. 55/1C, Watawalagawa,,Erellawa, Gomila,,Mawarala.",,"Hon. S. Premarathna, M.P.",,"No. 21, Siripura,Hokandara Road,,Thalawathugoda.",,United People's Freedom Alliance(UPFA),,
+                                Gampaha", : 10-10-1962,rathana_a@parliament.lk,"Hon. (Ven.) Athuraliye Rathana  Thero, M.P.",,United National Party (UNP), : Buddhism
  : Married," 
-                                Kegalle", : 09-05-1968,sandith_s@parliament.lk,"Samaragiri, Randeniya,,Hiriwadunna,,Kegalle.",0352263377,"Hon. Sandith Samarasinghe, M.P.", : Businessman,,0357200810                                                            ,United National Party (UNP),, : Buddhism
+                                National List", : 17-02-1962,,"Hon. (Dr.) S. M. Mohamed Ismail, M.P.", : Academician,United National Party (UNP), : Islam
+ : Married," 
+                                Kegalle", : 09-05-1968,sandith_s@parliament.lk,"Hon. Sandith Samarasinghe, M.P.", : Businessman,United National Party (UNP), : Buddhism
+ : Married," 
+                                Mahanuwara", : 22-06-1968,ratwatte_l@parliament.lk,"Hon. Lohan Ratwatte, M.P.",,United People's Freedom Alliance(UPFA), : Buddhism
+ : Married," 
+                                Nuwara - Eliya", : 21-01-1958,rathnayake_c@parliament.lk,"Hon. C. B. Rathnayake, M.P.", : Businessman,United People's Freedom Alliance(UPFA), : Buddhism
+ : Married," 
+                                National List", : 28-03-1973,bimal_r@parliament.lk,"Hon. Bimal Rathnayake, M.P.",,Janatha Vimukthi Peramuna (JVP), : Buddhism
 ," 
-                                Colombo", : 12-01-1977,marikkar_s@parliament.lk,"No. 149/2,,Avissawella Road,,Wellampitiya.",0777886665,"Hon. S. M. Marikkar, M.P.",,,0112533169 / 0112572422                                                            ,United National Party (UNP),,
+                                Gampaha", : 08-05-1974,ranaweera_p@parliament.lk,"Hon. Prasanna Ranaweera, M.P.",,United People's Freedom Alliance(UPFA),
  : Married," 
-                                National List", : 17-02-1962,,"87, Lake Road,,""Quazi Valavu"",,Sammanthurai.",0777777474,"Hon. (Dr.) S. M. Mohamed Ismail, M.P.", : Academician,"73/46 B, Saranankara Place,Saranankara Road,,Dehiwela.",0112727386                                                            ,United National Party (UNP),, : Islam
+                                Gampaha", : 01-12-1963,ranatunga_a@parliament.lk,"Hon. Arjuna Ranatunga, M.P.", : Company Director,United National Party (UNP), : Buddhism
  : Married," 
-                                Mahanuwara", : 22-06-1968,ratwatte_l@parliament.lk,"No. 101,,Mapanawatura Lane,,Kandy.",0812202700,"Hon. Lohan Ratwatte, M.P.",,,0812201000                                                            ,United People's Freedom Alliance(UPFA),, : Buddhism
+                                Polonnaruwa", : 24-10-1975,Ranasinghe_r@parliament.lk,"Hon. Roshan Ranasinghe, M.P.", : Businessman/Managing Director,United People's Freedom Alliance(UPFA), : Buddhism
  : Married," 
-                                Nuwara - Eliya", : 21-01-1958,rathnayake_c@parliament.lk,"No. 27,,Suhada Mawatha, Madiwela,,Kotte.",0522279402,"Hon. C. B. Rathnayake, M.P.", : Businessman,,0112596440                                                            ,United People's Freedom Alliance(UPFA),, : Buddhism
- : Married," 
-                                National List", : 28-03-1973,bimal_r@parliament.lk,"No. 1, Second Lane,,Jambugasmulla Mawatha,,Nugegoda.",0112785612,"Hon. Bimal Rathnayake, M.P.",,"No. 464/20, Pannipitiya Road,Pelawatta,,Battaramulla.",0112785612                                                            ,Janatha Vimukthi Peramuna (JVP),, : Buddhism
+                                Colombo", : 04-08-1965,ranawaka_p@parliament.lk,"Hon. Patali Champika Ranawaka, M.P.", : Engineer,United National Party (UNP), : Buddhism
 ," 
-                                Gampaha", : 10-10-1962,rathana_a@parliament.lk,"""Sadaham Sewana"",Gothami Uyana,Obesekarapura,,Rajagiriya.",0112882198,"Hon. (Ven.) Athuraliye Rathana  Thero, M.P.",,,0333338950                                                            ,United National Party (UNP),, : Buddhism
-," 
-                                Gampaha", : 08-05-1974,ranaweera_p@parliament.lk,"No. 223/E, Bandaranayake Mawatha,,Hunupitiya,,Wattala.",0112949555,"Hon. Prasanna Ranaweera, M.P.",,,0112949555                                                            ,United People's Freedom Alliance(UPFA),,
- : Married," 
-                                Colombo", : 04-08-1965,ranawaka_p@parliament.lk,"No. 121,,Wijerama Road,,Colombo 07.",0112866125,"Hon. Patali Champika Ranawaka, M.P.", : Engineer,,0112882585                                                            ,United National Party (UNP),"
-                                Minister of Megapolis and Western Development", : Buddhism
- : Married," 
-                                Gampaha", : 01-12-1963,ranatunga_a@parliament.lk,"No. 05,,Hill House Garden,,Colombo 15.",0342226600,"Hon. Arjuna Ranatunga, M.P.", : Company Director,,0112827979                                                            ,United National Party (UNP),"
-                                Minister of Petroleum Resources Development", : Buddhism
-," 
-                                Gampaha", : 01-01-1967,ranatunga_p@parliament.lk,"No. 180,,Minuwangoda Road,,Udugampola.",0332222406,"Hon. Prasanna Ranatunga, M.P.",,"No. 700/108,Perera Mawatha,,Thalawathugoda.",0777772520                                                            ,United People's Freedom Alliance(UPFA),,
- : Married," 
-                                Polonnaruwa", : 24-10-1975,Ranasinghe_r@parliament.lk,"879/1/B,,Hospital Junction,,Polonnaruwa.",0272226940,"Hon. Roshan Ranasinghe, M.P.", : Businessman/Managing Director,"No. 248/190, Lotus Grove,Hill Street,,Dehiwela.",0112727569                                                            ,United People's Freedom Alliance(UPFA),, : Buddhism
+                                Gampaha", : 01-01-1967,ranatunga_p@parliament.lk,"Hon. Prasanna Ranatunga, M.P.",,United People's Freedom Alliance(UPFA),
  : Single," 
-                                Gampaha", : 11-03-1963,ramanayake_r@parliament.lk,"No A 5, MPP Housing Scheme,,Madiwela,,Sri Jayewardenepura, Kotte.",0112778533,"Hon. Ranjan Ramanayake, M.P.", : Film Artiste,,0112778533                                                            ,United National Party (UNP),"
-                                Deputy Minister of Social Empowerment", : Roman Catholicism
+                                Gampaha", : 11-03-1963,ramanayake_r@parliament.lk,"Hon. Ranjan Ramanayake, M.P.", : Film Artiste,United National Party (UNP), : Roman Catholicism
+ : Married," 
+                                Colombo", : 16-03-1959,rajapakshe_w@parliament.lk,"Hon. (Dr.) Wijeyadasa Rajapakshe, M.P.", : Attorney-at-Law,United National Party (UNP), : Buddhism
 ," 
-                                Mahanuwara",,keheliyar@parliament.lk,"No. 51/4, Pushpadana Lane,,Bahirawakanda,,Kandy.",0812201093,"Hon. Keheliya Rambukwella, M.P.",,"No. 51/4, Pushpadana Lane,Bahirawakanda,,Kandy.",0812200925                                                            ,United People's Freedom Alliance(UPFA),, : Buddhism
- : Married," 
-                                Colombo", : 16-03-1959,rajapakshe_w@parliament.lk,"No.17, Wijayaba Mawatha,,Nawala Road,,Nugegoda.",0112827208,"Hon. (Dr.) Wijeyadasa Rajapakshe, M.P.", : Attorney-at-Law,,0112852841                                                            ,United National Party (UNP),"
-                                Minister of Higher Education & Cultural Affairs", : Buddhism
+                                Mahanuwara",,keheliyar@parliament.lk,"Hon. Keheliya Rambukwella, M.P.",,United People's Freedom Alliance(UPFA), : Buddhism
  : Single," 
-                                Hambantota", : 10-04-1986,rajapaksa_n@parliament.lk,"Calton,,Mahawela Road,,Tangalle.",,"Hon. Namal Rajapaksa, M.P.",,,,United People's Freedom Alliance(UPFA),, : Buddhism
+                                Hambantota", : 10-04-1986,rajapaksa_n@parliament.lk,"Hon. Namal Rajapaksa, M.P.",,United People's Freedom Alliance(UPFA), : Buddhism
  : Married," 
-                                Hambantota", : 30-10-1942,rajapaksa_c@parliament.lk,"Meda Mulana,,Weeraketiya.",0472257030,"Hon. Chamal Rajapaksa, M.P.", : Landed Proprietor,"Meda Mulana,Weeraketiya.",2871324                                                            ,United People's Freedom Alliance(UPFA),, : Buddhism
+                                Hambantota", : 30-10-1942,rajapaksa_c@parliament.lk,"Hon. Chamal Rajapaksa, M.P.", : Landed Proprietor,United People's Freedom Alliance(UPFA), : Buddhism
  : Married," 
-                                Kurunegala", : 18-11-1945,rajapaksa_m@parliament.lk,"No. 117,,Wijerama Mawatha,,Colombo -07.",,"Hon. Mahinda Rajapaksa, M.P.", : Attorney-at-Law,,,United People's Freedom Alliance(UPFA),, : Buddhism
+                                Kurunegala", : 18-11-1945,rajapaksa_m@parliament.lk,"Hon. Mahinda Rajapaksa, M.P.", : Attorney-at-Law,United People's Freedom Alliance(UPFA), : Buddhism
  : Married," 
-                                Nuwara - Eliya", : 01-08-1952,radhakrishnan_v@parliament.lk,"No. 95 H, Jayasuriya  Mawatha,,Thalangama North,,Koswatta.",0522223051,"Hon. V. S. Radhakrishnan, M.P.", : Businessman,,0522223052                                                            ,United People's Freedom Alliance(UPFA),"
-                                State  Minister of Education", : Hindu
+                                Nuwara - Eliya", : 01-08-1952,radhakrishnan_v@parliament.lk,"Hon. V. S. Radhakrishnan, M.P.", : Businessman,United National Party (UNP), : Hindu
 ," 
-                                Puttalam",,asokapriyantha@parliament.lk,"61D,,Meda Naththandiya,,Naththandiya.",0777625238,"Hon. Ashoka Priyantha, M.P.",,,032-7200222                                                            ,United National Party (UNP),,
+                                Puttalam",,asokapriyantha@parliament.lk,"Hon. Ashoka Priyantha, M.P.",,United National Party (UNP),
  : Married," 
-                                Badulla", : 01-11-1956,ravindra_s@parliament.lk,"Wemulla Estate,Nugathalawa,Welimada",0572244154,"Hon. Ravindra Samaraweera, M.P.", : Landed Proprietor; Businessman,"No. 302,Bauddhaloka Mawatha,,Colombo 07.",0777699597                                                            ,United National Party (UNP),"
-                                Minister of Labour & Trade Union Relations", : Buddhism
+                                Badulla", : 01-11-1956,ravindra_s@parliament.lk,"Hon. Ravindra Samaraweera, M.P.", : Landed Proprietor; Businessman,United National Party (UNP), : Buddhism
  : Married," 
-                                Kalutara", : 03-05-1960,thewarapperuma_p@parliament.lk,"Yatadola Watta,,Mathugama.",,"Hon. Palitha Kumara Thewarapperuma, M.P.", : Landed Proprietor,,0342241299                                                            ,United National Party (UNP),"
-                                Deputy Minister of Sustainable Development, Wildlife and Regional Development", : Buddhism
+                                National List", : 04-01-1941,thurai_kt@parliament.lk,"Hon. K. Thurairetnasingam, M.P.", : Divisional Director of Education,Illankai Tamil Arasu Kadchi (ITAK), : Hindu
  : Married," 
-                                Matale", : 13-04-1953,tennakoon_j@parliament.lk,"""Rangiri"",,Yapagama,,Dambulla.",0452228843,"Hon. Janaka Bandara Tennakoon, M.P.",,"No. 25/2,  ""Rangiri"",Sama Uyana,,Boralesgamuwa.",0112784150                                                            ,United People's Freedom Alliance(UPFA),, : Buddhism
+                                Badulla", : 23-03-1973,vidanagamage_t@parliament.lk,"Hon. Thenuka Vidanagamage, M.P.", : Businessman,United People's Freedom Alliance(UPFA), : Buddhism
  : Married," 
-                                Kegalle", : 25-05-1964,thusitha_w@parliament.lk,"""Vijayanthi"",Medagoda,,Amithirigala.",0362232846,"Hon. (Dr.) (Mrs.) Thusitha Wijemanna, M.P.", : Medical Practitioner,"Sri Sugatharama Road,Thalduwa,,Avissawella.",,United National Party (UNP),, : Buddhism
+                                National List", : 07-01-1971,thowfeek_m@parliament.lk,"Hon. M. S. Thowfeek, M.P.",,United National Party (UNP), : Islam
  : Married," 
-                                Gampaha", : 05-02-1966,wijesekera_d@parliament.lk,"No. 110/1, Kambikotuwa,,Papiliyawela.",033 2268335,"Hon. Duleep Wijesekera, M.P.", : Mrketing Executive,,0112465087                                                            ,United People's Freedom Alliance(UPFA),, : Buddhism
+                                Nuwara - Eliya", : 29-05-1964,thondaman_a@parliament.lk,"Hon. Arumugan Thondaman, M.P.",,United People's Freedom Alliance(UPFA), : Hindu
  : Married," 
-                                Kegalle", : 16-04-1974,tharaka_b@parliament.lk,"No.188,,Bandaranayaka Mawatha,,Kegalle.",0352230529,"Hon. Tharaka Balasuriya, M.P.",,,0352230529                                                            ,United People's Freedom Alliance(UPFA),, : Buddhism
+                                Nuwara - Eliya", : 10-01-1967,thigambaram_p@parliament.lk,"Hon. Palany Thigambaram, M.P.", : Businessman,United National Party (UNP), : Hindu
  : Married," 
-                                Ratnapura", : 16-11-1957,Wijethunga_a@parliament.lk,"No. 309/5, Colombo Road,,Weralupa Junction,,Ratnapura.",0454915251,"Hon. A. A. Wijethunga, M.P.", : Businessman,,0452225575                                                            ,United National Party (UNP),, : Buddhism
+                                Kegalle", : 25-05-1964,thusitha_w@parliament.lk,"Hon. (Dr.) (Mrs.) Thusitha Wijemanna, M.P.", : Medical Practitioner,United National Party (UNP), : Buddhism
  : Married," 
-                                Badulla", : 23-03-1973,vidanagamage_t@parliament.lk,"No. 28,,New Town,,Mahiyanganaya.",0552257747,"Hon. Thenuka Vidanagamage, M.P.", : Businessman,"Weragama,Weragantota.",0552257746                                                            ,United People's Freedom Alliance(UPFA),, : Buddhism
+                                Kalutara", : 03-05-1960,thewarapperuma_p@parliament.lk,"Hon. Palitha Kumara Thewarapperuma, M.P.", : Landed Proprietor,United National Party (UNP), : Buddhism
  : Married," 
-                                Matale", : 12-12-1971,rohini_wk@parliament.lk,"Kambiadiya,,Kaikawala.",0662255400,"Hon. (Mrs.) Rohini Kumari Wijerathna, M.P.",,,0773415003                                                            ,United National Party (UNP),, : Buddhism
+                                Matale", : 13-04-1953,tennakoon_j@parliament.lk,"Hon. Janaka Bandara Tennakoon, M.P.",,United People's Freedom Alliance(UPFA), : Buddhism
+ : Married," 
+                                Kegalle", : 16-04-1974,tharaka_b@parliament.lk,"Hon. Tharaka Balasuriya, M.P.",,United People's Freedom Alliance(UPFA), : Buddhism
+ : Married," 
+                                Gampaha", : 05-02-1966,wijesekera_d@parliament.lk,"Hon. Duleep Wijesekera, M.P.", : Mrketing Executive,United People's Freedom Alliance(UPFA), : Buddhism
+ : Married," 
+                                Matale", : 12-12-1971,rohini_wk@parliament.lk,"Hon. (Mrs.) Rohini Kumari Wijerathna, M.P.",,United National Party (UNP), : Buddhism
  : Single," 
-                                Kalutara", : 19-06-1960,Wijemanne_la@parliament.lk,"No. 42,,Sarananda Mw,,Kalutara South.",0345622544,"Hon. Lakshman Ananda Wijemanne, M.P.", : Landed Proprietor,"42/7,Koongahawatta Road,,Mt. Lavinia.",0112717433                                                            ,United National Party (UNP),, : Buddhism
+                                Kalutara", : 19-06-1960,Wijemanne_la@parliament.lk,"Hon. Lakshman Ananda Wijemanne, M.P.", : Landed Proprietor,United National Party (UNP), : Buddhism
  : Married," 
-                                Colombo", : 24-03-1949,wickremesinghe_r@parliament.lk,"No. 117,,5th Lane,,Colombo 03.",2573974,"Hon. Ranil Wickremesinghe, M.P.", : Attorney-at-Law,,0112573308                                                            ,United National Party (UNP),"
-                                Prime Minister and Minister of National  Policies and Economic Affairs", : Buddhism
+                                Colombo", : 24-03-1949,wickremesinghe_r@parliament.lk,"Hon. Ranil Wickremesinghe, M.P.", : Attorney-at-Law,United National Party (UNP), : Buddhism
  : Married," 
-                                Colombo", : 21-10-1957,eran_wickramaratne@parliament.lk,"16/9,,Averihena Road,,Colombo 05.",0112513795,"Hon. Eran Wickramaratne, M.P.",,,0113188950                                                            ,United National Party (UNP),"
-                                State Minister of  Finance", : Christianity
+                                Colombo", : 21-10-1957,eran_wickramaratne@parliament.lk,"Hon. Eran Wickramaratne, M.P.",,United National Party (UNP), : Christianity
  : Married," 
-                                Kalutara", : 05-04-1950,welgama_k@parliament.lk,"Deniston Estate,,Horawala,,Welipenna.",0342247099,"Hon. Kumara Welgama, M.P.", : Landed Proprietor,"No. 101 A,Manning Place,,Colombo 06.",0342243955                                                            ,United People's Freedom Alliance(UPFA),, : Buddhism
+                                Colombo", : 07-03-1970,weerawansha_w@parliament.lk,"Hon. Wimal Weerawansa, M.P.", : Politician,United People's Freedom Alliance(UPFA), : Buddhism
 ," 
-                                Kalutara",,wickramanayaka_v@parliament.lk,"No. 348,,Panadura Road,,Horana.",0342264477,"Hon. Vidura Wickramanayaka, M.P.",,,0342264654                                                            ,United People's Freedom Alliance(UPFA),,
+                                Kalutara",,wickramanayaka_v@parliament.lk,"Hon. Vidura Wickramanayaka, M.P.",,United People's Freedom Alliance(UPFA),
  : Married," 
-                                Colombo", : 07-03-1970,weerawansha_w@parliament.lk,"No. 342/1/4,,E.W. Perera Mawatha,  Kotte Road,,Pitakotte.",0112890670,"Hon. Wimal Weerawansa, M.P.", : Politician,,0112890670                                                            ,United People's Freedom Alliance(UPFA),, : Buddhism
+                                Hambantota", : 05-02-1957,wedaarachchi_d@parliament.lk,"Hon. Dilip Wedaarachchi, M.P.", : Businessman,United National Party (UNP), : Buddhism
  : Married," 
-                                Galle", : 23-05-1968,chandima_w@parliament.lk,"No. 110/2,,Wijerama Mawatha,,Colombo 07.",0912223228,"Hon. Chandima Weerakkody, M.P.", : Attorney-at-Law,,0112773006                                                            ,United People's Freedom Alliance(UPFA),, : Buddhism
+                                Kalutara", : 05-04-1950,welgama_k@parliament.lk,"Hon. Kumara Welgama, M.P.", : Landed Proprietor,United People's Freedom Alliance(UPFA), : Buddhism
  : Married," 
-                                Hambantota", : 05-02-1957,wedaarachchi_d@parliament.lk,"Sri Deepankara Road,,Medaketiya,,Tangalle.",0472242301,"Hon. Dilip Wedaarachchi, M.P.", : Businessman,,0472242301                                                            ,United National Party (UNP),"
-                                State Minister of Fisheries & Aquatic Resources Development and Rural Economic Affairs", : Buddhism
+                                Galle", : 23-05-1968,chandima_w@parliament.lk,"Hon. Chandima Weerakkody, M.P.", : Attorney-at-Law,United People's Freedom Alliance(UPFA), : Buddhism
  : Married," 
-                                Ratnapura", : 10-11-1964,wanniarachchi_p@parliament.lk,"No. 18/228 A, 3rd Cross Avenue,,Evergreen Park, E. D. Dabare Maw, Narahenpita,,Colombo 05.",0452275585,"Hon. (Mrs.) Pavithradevi Wanniarachchi, M.P.", : Attorney-at-Law,,0112585827                                                            ,United People's Freedom Alliance(UPFA),, : Buddhism
+                                Ratnapura", : 10-11-1964,wanniarachchi_p@parliament.lk,"Hon. (Mrs.) Pavithradevi Wanniarachchi, M.P.", : Attorney-at-Law,United People's Freedom Alliance(UPFA), : Buddhism
  : Married," 
-                                Ratnapura", : 15-12-1967,wakkumbura_j@parliament.lk,"Dheerananda Mawatha,,Elapatha,,Ratnapura.",0452230497,"Hon. Janaka Wakkumbura, M.P.", : Landed Proprietor,,0452225968                                                            ,United People's Freedom Alliance(UPFA),, : Buddhism
+                                Galle", : 06-09-1957,wijepala_h@parliament.lk,"Hon. Wijepala Hettiarachchi, M.P.", : Planter,United National Party (UNP), : Buddhism
  : Married," 
-                                Galle", : 06-09-1957,wijepala_h@parliament.lk,"Baddegama Road,,Meepawala, Poaththala,Galle.",0912233477,"Hon. Wijepala Hettiarachchi, M.P.", : Planter,,0912233477                                                            ,United National Party (UNP),, : Buddhism
+                                Ratnapura", : 15-12-1967,wakkumbura_j@parliament.lk,"Hon. Janaka Wakkumbura, M.P.", : Landed Proprietor,United People's Freedom Alliance(UPFA), : Buddhism
  : Married," 
-                                Ratnapura", : 30-05-1963,atukorale_t@parliament.lk,"Panawenna Watta,,Kahawatta.",0452274287,"Hon. (Mrs.) Thalatha Atukorale, M.P.", : Attorney-at-Law,"231/1,Stanly Thilakeratne Mawatha,,Nugegoda.",0112820074                                                            ,United National Party (UNP),"
-                                Minister of Justice & Prison Reforms", : Buddhism
+                                Puttalam", : 11-01-1961,hector_a@parliament.lk,"Hon. Hector Appuhamy, M.P.", : Businessman,United National Party (UNP), : Roman Catholicism
  : Married," 
-                                Vanni", : 29-07-1964,ananthan_s@parliament.lk,"26/10, First Lane,,Kandy Road,,Vavuniya.",0232222441,"Hon. Annamalai Nadesu Sivasakthi, M.P.",,,0242221898                                                            ,Illankai Tamil Arasu Kadchi (ITAK),, : Hindu
+                                Vanni", : 29-07-1964,ananthan_s@parliament.lk,"Hon. Annamalai Nadesu Sivasakthi, M.P.",,Illankai Tamil Arasu Kadchi (ITAK), : Hindu
  : Married," 
-                                Puttalam", : 11-01-1961,hector_a@parliament.lk,"38,,Rangammulla,,Waikkala.",0312278453,"Hon. Hector Appuhamy, M.P.", : Businessman,,031-2278453                                                            ,United National Party (UNP),, : Roman Catholicism
+                                National List", : 10-07-1939,amunugama_s@parliament.lk,"Hon. (Dr.) Sarath Amunugama, M.P.", : Civil Servant,United People's Freedom Alliance(UPFA), : Buddhism
  : Married," 
-                                National List", : 10-07-1939,amunugama_s@parliament.lk,"No. 221,,Galagedara Road,,Nugawela.",0812499703,"Hon. (Dr.) Sarath Amunugama, M.P.", : Civil Servant,"No. 50/1,Siripa Road,,Colombo 05.",0112586789                                                            ,United People's Freedom Alliance(UPFA),"
-                                Minister of Science, Technology, Research, Skills Development & Vocational Training and  Kandyan Heritage", : Buddhism
- : Married," 
-                                Vanni", : 24-11-1975,charles_n@parliament.lk,"205/13,Sinnakadai,,Mannar",,"Hon. I. Charles Nirmalanathan, M.P.",,,0112360582                                                            ,Illankai Tamil Arasu Kadchi (ITAK),, : Roman Catholicism
+                                Ratnapura", : 30-05-1963,atukorale_t@parliament.lk,"Hon. (Mrs.) Thalatha Atukorale, M.P.", : Attorney-at-Law,United National Party (UNP), : Buddhism
  : Single," 
-                                Mahanuwara", : 09-05-1981,amunugama_d@parliament.lk,"No. 33/ B 3,,Hanthana Housing Scheme,,Kandy",0812213901,"Hon. Dilum Amunugama, M.P.",,"No. 221,Galagedara Rood,,Kandy.",0813807351                                                            ,United People's Freedom Alliance(UPFA),, : Buddhism
+                                Mahanuwara", : 09-05-1981,amunugama_d@parliament.lk,"Hon. Dilum Amunugama, M.P.",,United People's Freedom Alliance(UPFA), : Buddhism
  : Married," 
-                                Kalutara", : 21-09-1966,abeygunawardana_r@parliament.lk,"No.90,,Old Road,,Kaluthara South.",0342298481,"Hon. Rohitha Abeygunawardana, M.P.", : Businessman,,0382235538                                                            ,United People's Freedom Alliance(UPFA),, : Buddhism
+                                Vanni", : 24-11-1975,charles_n@parliament.lk,"Hon. I. Charles Nirmalanathan, M.P.",,Illankai Tamil Arasu Kadchi (ITAK), : Roman Catholicism
  : Married," 
-                                National List", : 13-10-1937,fowzie_a@parliament.lk,"No. 409,,Bauddhaloka Mawatha,,Colombo 07.",0112699617,"Hon. A. H. M. Fowzie, M.P.", : Businessman,"No. 78,School Lane,,Colombo 03.",0112699616                                                            ,United People's Freedom Alliance(UPFA),"
-                                State Minister of National Unity and Co-existence", : Islam
+                                National List", : 02-02-1963,hizbullah_m@parliament.lk,"Hon. (Dr.) M. L. A. M. Hizbullah, M.P.", : Businessman,United People's Freedom Alliance(UPFA), : Islam
+ : Married," 
+                                Gampaha", : 01-05-1968,herath_v@parliament.lk,"Hon. Vijitha Herath, M.P.", : Politician,Janatha Vimukthi Peramuna (JVP), : Buddhism
+ : Married," 
+                                National List", : 13-10-1937,fowzie_a@parliament.lk,"Hon. A. H. M. Fowzie, M.P.", : Businessman,United People's Freedom Alliance(UPFA), : Islam
  : Widower," 
-                                Colombo", : 02-03-1949,gunawardena_dcr@parliament.lk,"No. 84,,Kirillapona Avenue,,Colombo 05.",0112842209,"Hon. Dinesh Gunawardena, M.P.", : Trade Unionist,,0112514485                                                            ,United People's Freedom Alliance(UPFA),, : Buddhism
+                                Colombo", : 02-03-1949,gunawardena_dcr@parliament.lk,"Hon. Dinesh Gunawardena, M.P.", : Trade Unionist,United People's Freedom Alliance(UPFA), : Buddhism
+," 
+                                Kegalle", : 07-10-1984,dushmantha_s@parliament.lk,"Hon. H. R. Sarathie Dushmantha, M.P.",,United People's Freedom Alliance(UPFA),
  : Married," 
-                                Colombo", : 15-03-1953,gunawardane_b@parliament.lk,"No. 142,,Jambugasmulla Mawatha,,Nugegoda.",0112199500,"Hon. (Dr.) Bandula Gunawardana, M.P.",,,0112199500                                                            ,United People's Freedom Alliance(UPFA),, : Buddhism
+                                Anuradhapura", : 10-04-1971,dissanayake_w@parliament.lk,"Hon. Weerakumara Dissanayake, M.P.",,United People's Freedom Alliance(UPFA), : Buddhism
  : Married," 
-                                Kurunegala", : 28-08-1954,ekanayake_t@parliament.lk,"Mihindu Mawatha,,Moonamalegama,,Maho.",0372275013,"Hon. T. B. Ekanayake, M.P.",,,012687775                                                            ,United People's Freedom Alliance(UPFA),, : Buddhism
+                                Digamadulla", : 04-09-1957,cassim_f@parliament.lk,"Hon. Faizal Cassim, M.P.", : Businessman,United National Party (UNP), : Islam
+ : Married," 
+                                Anuradhapura", : 03-05-1955,chandrasena_s@parliament.lk,"Hon. S. M. Chandrasena, M.P.", : Agriculturist,United People's Freedom Alliance(UPFA), : Buddhism
+ : Single," 
+                                Kurunegala", : 07-09-1972,bandaranayake_i@parliament.lk,"Hon. Indika Bandaranayake, M.P.", : Businessman,United People's Freedom Alliance(UPFA), : Buddhism
+," 
+                                Kurunegala", : 31-10-1980,basnayaka_t@parliament.lk,"Hon. Tharanath Basnayaka, M.P.",,United People's Freedom Alliance(UPFA), : Buddhism
+ : Married," 
+                                Anuradhapura", : 24-07-1962,chandrani_b@parliament.lk,"Hon. (Mrs.) Chandrani Bandara, M.P.", : Businesswoman,United National Party (UNP), : Buddhism
+ : Single," 
+                                Galle", : 21-03-1970,bandarigoda_l@parliament.lk,"Hon. Bandula Lal Bandarigoda, M.P.",,United National Party (UNP), : Buddhism
+ : Married," 
+                                Nuwara - Eliya", : 09-09-1969,dissanayake_n@parliament.lk,"Hon. Navin Dissanayake, M.P.", : Attorney-at-Law,United National Party (UNP), : Buddhism
+ : Married," 
+                                Kurunegala", : 01-05-1958,salinda_d@parliament.lk,"Hon. Salinda Dissanayake, M.P.", : Engineer,United People's Freedom Alliance(UPFA), : Buddhism
+ : Married," 
+                                National List", : 18-09-1951,dissanayake_s@parliament.lk,"Hon. S. B. Dissanayake, M.P.",,United People's Freedom Alliance(UPFA), : Buddhism
+ : Married," 
+                                National List", : 25-05-1971,ashu@parliament.lk,"Hon. (Prof.) Ashu Marasinghe, M.P.", : Professor,United National Party (UNP), : Buddhism
+ : Married," 
+                                Mahanuwara",,mayantha_d@parliament.lk,"Hon. Mayantha Dissanayake, M.P.", : Company Director,United National Party (UNP), : Buddhism
+ : Single," 
+                                Anuradhapura", : 28-03-1979,duminda_d@parliament.lk,"Hon. Duminda Dissanayake, M.P.",,United People's Freedom Alliance(UPFA), : Buddhism
+ : Married," 
+                                Digamadulla", : 30-06-1954,dissanayaka_w@parliament.lk,"Hon. Wimalaweera Dissanayaka, M.P.", : Teacher,United People's Freedom Alliance(UPFA), : Buddhism
+ : Single," 
+                                Colombo", : 24-11-1968,dissanayaka_a@parliament.lk,"Hon. Anura Dissanayaka, M.P.",,Janatha Vimukthi Peramuna (JVP), : Buddhism
+ : Married," 
+                                Ratnapura", : 03-05-1962,dezoysa_r@parliament.lk,"Hon. T. Ranjith De Zoysa, M.P.", : Planter,United People's Freedom Alliance(UPFA), : Buddhism
+ : Single," 
+                                Jaffna", : 10-11-1957,devananda_d@parliament.lk,"Hon. Douglas Devananda, M.P.",,Eelam  People's Democratic Party (EPDP),
+ : Married," 
+                                Badulla", : 06-09-1944,silva_n@parliament.lk,"Hon. Nimal Siripala de Silva, M.P.", : Attorney-at-Law,United People's Freedom Alliance(UPFA), : Buddhism
+," 
+                                Anuradhapura", : 18-01-1967,chandima_g@parliament.lk,"Hon. Chandima Gamage, M.P.",,United National Party (UNP),
+ : Married," 
+                                Colombo", : 30-08-1964,desilva_h@parliament.lk,"Hon. (Dr.) Harsha De Silva, M.P.", : Economist,United National Party (UNP), : Buddhism
+ : Married," 
+                                Galle", : 23-12-1966,silva_p@parliament.lk,"Hon. Mohan Priyadarshana De Silva, M.P.", : Attorney-at-Law,United People's Freedom Alliance(UPFA), : Buddhism
+ : Single," 
+                                Hambantota", : 11-09-1987,chanaka_d@parliament.lk,"Hon. D. V. Chanaka, M.P.", : Parliamentarian,United People's Freedom Alliance(UPFA), : Buddhism
+ : Married," 
+                                Colombo", : 15-03-1953,gunawardane_b@parliament.lk,"Hon. (Dr.) Bandula Gunawardana, M.P.",,United People's Freedom Alliance(UPFA), : Buddhism
+ : Married," 
+                                Gampaha", : 05-07-1953,edward_g@parliament.lk,"Hon. Edward Gunasekara, M.P.", : Businessman,United National Party (UNP), : Buddhism
+ : Married," 
+                                Colombo", : 14-06-1956,grero_m@parliament.lk,"Hon. Mohan Lal Grero, M.P.", : Teacher,United People's Freedom Alliance(UPFA), : Buddhism
+ : Married," 
+                                Monaragala", : 18-06-1972,gunasekera_u@parliament.lk,"Hon. Padma Udhayashantha Gunasekera, M.P.",,United People's Freedom Alliance(UPFA),
  : None," 
-                                Ratnapura", : 16-03-1972,gankanda_d@parliament.lk,"Pahalawaththa,,Ganegama,,Pelmadulla.",0452274500,"Hon. Dunesh Gankanda, M.P.",,"No. 10  2/8,Lauries Road,,Colombo 04.",0112598260                                                            ,United National Party (UNP),"
-                                Deputy Minister of Lands and Parliamentary Reforms", : Buddhism
+                                Ratnapura", : 16-03-1972,gankanda_d@parliament.lk,"Hon. Dunesh Gankanda, M.P.",,United National Party (UNP), : Buddhism
  : Married," 
-                                Gampaha", : 05-07-1953,edward_g@parliament.lk,"No. 55,,Negombo Road,,Katuwellegama.",,"Hon. Edward Gunasekara, M.P.", : Businessman,,0112294040                                                            ,United National Party (UNP),"
-                                Deputy Minister of Internal Affairs & Wayamba Development", : Buddhism
+                                Colombo", : 17-12-1959,mano_g@parliament.lk,"Hon. Mano Ganesan, M.P.", : Company Director,United National Party (UNP), : Hindu
  : Married," 
-                                Colombo", : 14-06-1956,grero_m@parliament.lk,"3/1, Raymond Road,,Nugegoda.",0112727368,"Hon. Mohan Lal Grero, M.P.", : Teacher,,0112884089                                                            ,United People's Freedom Alliance(UPFA),"
-                                State Minister of Higher Education & Cultural Affairs", : Buddhism
+                                Colombo", : 06-02-1970,gammanpila_u@parliament.lk,"Hon. Udaya Prabhath Gammanpila, M.P.", : Attorney-at-Law,United People's Freedom Alliance(UPFA), : Buddhism
  : Married," 
-                                Monaragala", : 18-06-1972,gunasekera_u@parliament.lk,"Dharmodaya Mawatha,,Pothuvil Road,,Monaragala.",0552055525,"Hon. Padma Udhayashantha Gunasekera, M.P.",,,0552055525                                                            ,United People's Freedom Alliance(UPFA),,
+                                Polonnaruwa", : 18-07-1952,gamalath_s@parliament.lk,"Hon. Siripala Gamalath, M.P.", : Businessman,United People's Freedom Alliance(UPFA), : Buddhism
+ : Married," 
+                                Galle", : 10-01-1949,piyasena_g@parliament.lk,"Hon. Piyasena Gamage, M.P.",,United People's Freedom Alliance(UPFA), : Buddhism
 ," 
-                                Kegalle", : 07-10-1984,dushmantha_s@parliament.lk,"No. 528,,Karawanella,,Ruwanwella.",0362266705,"Hon. H. R. Sarathie Dushmantha, M.P.",,,0362266705                                                            ,United People's Freedom Alliance(UPFA),"
-                                Deputy Minister of Justice & Prison Reforms",
- : Married," 
-                                Anuradhapura", : 10-04-1971,dissanayake_w@parliament.lk,"741/5, Preeman Mawatha,,Stage 11,,Anuradhapura.",0253779000,"Hon. Weerakumara Dissanayake, M.P.",,,0112699666                                                            ,United People's Freedom Alliance(UPFA),"
-                                State Minister of Mahaweli Development", : Buddhism
- : Married," 
-                                Kurunegala", : 01-05-1958,salinda_d@parliament.lk,"No. 37,,North Lake Road,,Kurunegala.",0372230966,"Hon. Salinda Dissanayake, M.P.", : Engineer,"Mahaweli Houses,D 7, Sarana Road,,Colombo 07.",0112696038                                                            ,United People's Freedom Alliance(UPFA),, : Buddhism
- : Married," 
-                                National List", : 18-09-1951,dissanayake_s@parliament.lk,"Thalawathura Road,,Uda Aludeniya,,Weligalla.",,"Hon. S. B. Dissanayake, M.P.",,"1070/2,Denzil Kobbekaduwa Mawatha,,Battaramulla.",2864484                                                            ,United People's Freedom Alliance(UPFA),, : Buddhism
- : Single," 
-                                Anuradhapura", : 28-03-1979,duminda_d@parliament.lk,"No. 630, ""Sanasuma"",,Airport Road,,Anuradhapura.",0252276573,"Hon. Duminda Dissanayake, M.P.",,,0252222045                                                            ,United People's Freedom Alliance(UPFA),"
-                                Minister of Irrigation and Water Resources & Disaster Management", : Buddhism
- : Married," 
-                                Mahanuwara",,mayantha_d@parliament.lk,"No. 219/1 B, Kottegoda Gardens,,Kadugannawa,,Kandy.",,"Hon. Mayantha Dissanayake, M.P.", : Company Director,,0777515181                                                            ,United National Party (UNP),, : Buddhism
- : Married," 
-                                Nuwara - Eliya", : 09-09-1969,dissanayake_n@parliament.lk,"No. 12/5,,Queens Avenue Housing Scheme,,Colombo 03.",0522222355,"Hon. Navin Dissanayake, M.P.", : Attorney-at-Law,,,United National Party (UNP),"
-                                Minister of Plantation Industries", : Buddhism
- : Single," 
-                                Colombo", : 24-11-1968,dissanayaka_a@parliament.lk,"No. 464/20, Pannipitiya Road,,Pelawatta.,Battaramulla.",0112177005,"Hon. Anura Dissanayaka, M.P.",,,0112177013                                                            ,Janatha Vimukthi Peramuna (JVP),, : Buddhism
- : Married," 
-                                Digamadulla", : 30-06-1954,dissanayaka_w@parliament.lk,"C 3,,Hingurana,,Ampara.",0632240248,"Hon. Wimalaweera Dissanayaka, M.P.", : Teacher,,0632240248                                                            ,United People's Freedom Alliance(UPFA),, : Buddhism
- : Single," 
-                                Jaffna", : 10-11-1957,devananda_d@parliament.lk,"No. 04,,New Athiyady Road,,Jaffna.",0112503467,"Hon. Douglas Devananda, M.P.",,"9/3, Station Road,Bambalapitiya,,Colombo 04.",0112503467                                                            ,Eelam  People's Democratic Party (EPDP),,
- : Married," 
-                                Ratnapura", : 03-05-1962,dezoysa_r@parliament.lk,"Kudagodawatta,,Masimbula,,Godakawela.",0452240654,"Hon. T. Ranjith De Zoysa, M.P.", : Planter,,0452240654                                                            ,United People's Freedom Alliance(UPFA),, : Buddhism
- : Married," 
-                                Badulla", : 06-09-1944,silva_n@parliament.lk,"No. 24/18,,R.M. Gunawardena Mawatha,,Badulla.",0552229892,"Hon. Nimal Siripala de Silva, M.P.", : Attorney-at-Law,"No. 93/20,Elvitigala Mawatha,,Colombo 08.",0112695600                                                            ,United People's Freedom Alliance(UPFA),"
-                                Minister of Transport and Civil Aviation", : Buddhism
- : Married," 
-                                Galle", : 23-12-1966,silva_p@parliament.lk,"Near Railway Station,,Dodanduwa.",0912248440,"Hon. Mohan Priyadarshana De Silva, M.P.", : Attorney-at-Law,,0912267850                                                            ,United People's Freedom Alliance(UPFA),, : Buddhism
- : Married," 
-                                Colombo", : 30-08-1964,desilva_h@parliament.lk,"No. 30/90 T,,Malalasekara Mw,,Colombo 07.",0112597769,"Hon. (Dr.) Harsha De Silva, M.P.", : Economist,"No. 29 A, 1st Lane,Narahenpita Road,,Nawala.",0112862155                                                            ,United National Party (UNP),"
-                                State Minister of National Policies and Economic Affairs", : Buddhism
+                                Digamadulla", : 15-09-1960,daya_g@parliament.lk,"Hon. Daya Gamage, M.P.",,United National Party (UNP),
 ," 
-                                Anuradhapura", : 18-01-1967,chandima_g@parliament.lk,"Olukaranda,,Railway Town, Olukaranda,,Kekirawa.",,"Hon. Chandima Gamage, M.P.",,"United National Party Office,Habarana Road,,Kekirawa.",0254934690                                                            ,United National Party (UNP),,
+                                Batticaloa", : 01-07-1960,srineshan_g@parliament.lk,"Hon. Gnanamuthu Srineshan, M.P.",,Illankai Tamil Arasu Kadchi (ITAK),
+ : Married," 
+                                Hambantota", : 22-12-1954,,"Hon. Nihal Galappaththi, M.P.", : Teacher,Janatha Vimukthi Peramuna (JVP), : Buddhism
 ," 
-                                Kurunegala", : 31-10-1980,basnayaka_t@parliament.lk,"""Nidahasa"",Ehetuwewa",0372253400,"Hon. Tharanath Basnayaka, M.P.",,,0372253400                                                            ,United People's Freedom Alliance(UPFA),, : Buddhism
- : Single," 
-                                Hambantota", : 11-09-1987,chanaka_d@parliament.lk,"'Tharaka',,Kudawella - South,,Nakulugamuwa.",0412255650,"Hon. D. V. Chanaka, M.P.", : Parliamentarian,,0412255650                                                            ,United People's Freedom Alliance(UPFA),, : Buddhism
- : Single," 
-                                Kurunegala", : 07-09-1972,bandaranayake_i@parliament.lk,"13,,Mahagalkadawala,,Galgamuwa.",0372253190,"Hon. Indika Bandaranayake, M.P.", : Businessman,,0372253190                                                            ,United People's Freedom Alliance(UPFA),"
-                                Deputy Minister of Housing and Construction", : Buddhism
+                                National List",,anoma_g@parliament.lk,"Hon. (Dr.) (Mrs.) Anoma Gamage, M.P.", : Company Director,United National Party (UNP), : Buddhism
  : Married," 
-                                Anuradhapura", : 24-07-1962,chandrani_b@parliament.lk,"C. 49,,Keppetipola Mawatha,,Colombo 05.",0252225395,"Hon. (Mrs.) Chandrani Bandara, M.P.", : Businesswoman,,0112552073                                                            ,United National Party (UNP),"
-                                Minister of Women and Child Affairs", : Buddhism
- : Single," 
-                                Galle", : 21-03-1970,bandarigoda_l@parliament.lk,"Waduwelivitiya South,,Unanvitiya.",,"Hon. Bandula Lal Bandarigoda, M.P.",,,0917200736                                                            ,United National Party (UNP),, : Buddhism
- : Married," 
-                                Colombo", : 06-02-1970,gammanpila_u@parliament.lk,"No. 1282 A,,Rajamalwatta Road,,Battaramulla.",0113357666,"Hon. Udaya Prabhath Gammanpila, M.P.", : Attorney-at-Law,,0113357666                                                            ,United People's Freedom Alliance(UPFA),, : Buddhism
- : Married," 
-                                Anuradhapura", : 03-05-1955,chandrasena_s@parliament.lk,"Matale Road,,Kurudankulama,Anuradhapura.",0252224904,"Hon. S. M. Chandrasena, M.P.", : Agriculturist,,011340055                                                            ,United People's Freedom Alliance(UPFA),, : Buddhism
- : Married," 
-                                Digamadulla", : 04-09-1957,cassim_f@parliament.lk,"No. 390 /6A,,Serpentine Road,,Colombo 08.",0672251151,"Hon. Faizal Cassim, M.P.", : Businessman,,0112695601                                                            ,United National Party (UNP),"
-                                Deputy Minister of Health, Nutrition and Indigenous Medicine", : Islam
- : Married," 
-                                Polonnaruwa", : 18-07-1952,gamalath_s@parliament.lk,"""Nipuna Nivasa"",,Girithale.",0272246361,"Hon. Siripala Gamalath, M.P.", : Businessman,"No. 79/5/3, Hide Park Residence,Hide Park Corner,,Colombo 02.",0272245369                                                            ,United People's Freedom Alliance(UPFA),, : Buddhism
- : Married," 
-                                National List", : 25-05-1971,ashu@parliament.lk,"No. 117/ 36/ 4/ 1,,Elvitigala Mawatha,,Colombo 08.",0777779897,"Hon. (Prof.) Ashu Marasinghe, M.P.", : Professor,,0777779897                                                            ,United National Party (UNP),, : Buddhism
- : Married," 
-                                Colombo", : 17-12-1959,mano_g@parliament.lk,"No. 24, Shri Maha Vihara Road,,Dutugemunu Road,Pamankada,,Dehiwela.",0112729810,"Hon. Mano Ganesan, M.P.", : Company Director,"No. 72,Bankshall Street,,Colombo 11.",0112729810                                                            ,United National Party (UNP),"
-                                Minister of National Integration, Reconciliation and Official Languages", : Hindu
- : Married," 
-                                Galle", : 10-01-1949,piyasena_g@parliament.lk,"""Sandasiri"",,Medagama,,Neluwa.",0777906080,"Hon. Piyasena Gamage, M.P.",,"No.30,Jayanthipura Main Road,,Battaramulla.",0777906080 / 0717906080                                                            ,United People's Freedom Alliance(UPFA),"
-                                State Minister of Youth Affairs, Project Management and Southern Development", : Buddhism
-," 
-                                Digamadulla", : 15-09-1960,daya_g@parliament.lk,"No. 19/6A, Hospital Terrace,,Sunandarama Road,,Kalubowila.",0112764221,"Hon. Daya Gamage, M.P.",,,0112765977                                                            ,United National Party (UNP),"
-                                Minister of Social Welfare and Primary Industries",
-," 
-                                National List",,anoma_g@parliament.lk,"19/6A, Hospital Terrace,,Off Sunandarama Road, Kalubowila,,Dehiwala.",0632224303,"Hon. (Dr.) (Mrs.) Anoma Gamage, M.P.", : Company Director,,2764221/2765977                                                            ,United National Party (UNP),"
-                                Deputy Minister of Petroleum Resources Development", : Buddhism
- : Married," 
-                                Hambantota", : 22-12-1954,,"208/2, Muthumala Mawatha,,Pallikkudawa,,Tangalle.",,"Hon. Nihal Galappaththi, M.P.", : Teacher,"A 9, Madiwela Housing Scheme,Madiwela,,Sri Jayewardenepura.",,Janatha Vimukthi Peramuna (JVP),, : Buddhism
- : Married," 
-                                Matara", : 26-02-1946,gajadeera_c@parliament.lk,"No. 31, Diyawanna Udyanaya,,Pelawatta,,Battaramulla.",,"Hon. Chandrasiri Gajadeera, M.P.", : Attorney-at-Law,,0412230829                                                            ,United People's Freedom Alliance(UPFA),, : Buddhism
+                                Matara", : 26-02-1946,gajadeera_c@parliament.lk,"Hon. Chandrasiri Gajadeera, M.P.", : Attorney-at-Law,United People's Freedom Alliance(UPFA), : Buddhism
  : Widow ," 
-                                Gampaha", : 29-10-1960,fernandopulle_s@parliament.lk,"276/1,,Welihena,,Kochchikade.",0312277130,"Hon. (Dr.) (Mrs.) Sudarshini Fernandopulle, M.P.", : Medical Consultant - Specialist.,"30/24,Longdon Place,,Colombo 07.",0312277130                                                            ,United People's Freedom Alliance(UPFA),, : Roman Catholicism
+                                Gampaha", : 29-10-1960,fernandopulle_s@parliament.lk,"Hon. (Dr.) (Mrs.) Sudarshini Fernandopulle, M.P.", : Medical Consultant - Specialist.,United People's Freedom Alliance(UPFA), : Roman Catholicism
+ : Married," 
+                                Kurunegala", : 05-12-1964,fernando_j@parliament.lk,"Hon. Johnston Fernando, M.P.", : Businessman,United People's Freedom Alliance(UPFA), : Roman Catholicism
+ : Married," 
+                                Badulla", : 28-10-1978,fernando_h@parliament.lk,"Hon. Harin Fernando, M.P.", : Businessman,United National Party (UNP), : Buddhism
+ : Married," 
+                                Anuradhapura", : 24-07-1964,harrison_p@parliament.lk,"Hon. P. Harrison, M.P.", : Businessman,United National Party (UNP), : Buddhism
+ : Married," 
+                                Kurunegala", : 28-08-1954,ekanayake_t@parliament.lk,"Hon. T. B. Ekanayake, M.P.",,United People's Freedom Alliance(UPFA), : Buddhism
+ : Married," 
+                                Puttalam", : 15-09-1971,arundika_f@parliament.lk,"Hon. Arundika Fernando, M.P.",,United People's Freedom Alliance(UPFA), : Roman Catholicism
+ : Married," 
+                                ----", : 19-10-1971,handunnetti_s@parliament.lk,"Hon. Sunil Handunnetti, M.P.", : Politician,Janatha Vimukthi Peramuna (JVP), : Buddhism
+ : Married," 
+                                Mahanuwara", : 13-04-1960,hakeem_r@parliament.lk,"Hon. Rauff Hakeem, M.P.", : Attorney-at-Law,United National Party (UNP), : Islam
+ : Married," 
+                                Mahanuwara", : 29-08-1956,haleem_a@parliament.lk,"Hon. Abdul Haleem, M.P.", : Bank Officer,United National Party (UNP), : Islam
+ : Married," 
+                                Kegalle", : 29-04-1976,kanaka_h@parliament.lk,"Hon. Kanaka Herath, M.P.",,United People's Freedom Alliance(UPFA), : Buddhism
 ," 
-                                Batticaloa", : 01-07-1960,srineshan_g@parliament.lk,"No. 561/3,,Lions Centre Road,,Batticaloa.",0766648048,"Hon. Gnanamuthu Srineshan, M.P.",,"No. 561/3,Lions Centre Road,,Batticaloa.",,Illankai Tamil Arasu Kadchi (ITAK),,
- : Married," 
-                                Kurunegala", : 05-12-1964,fernando_j@parliament.lk,"Rosewood Garden,,Rathkarawwa,,Maspotha.",0372236608,"Hon. Johnston Fernando, M.P.", : Businessman,,0372229729                                                            ,United People's Freedom Alliance(UPFA),, : Roman Catholicism
- : Married," 
-                                Badulla", : 28-10-1978,fernando_h@parliament.lk,"No. C 44,,Keppetipola Road, Jawatta,,Colombo 05.",0112931627,"Hon. Harin Fernando, M.P.", : Businessman,,0552224012                                                            ,United National Party (UNP),"
-                                Minister of Telecommunication, Digital Infrastructure and Foreign Employment", : Buddhism
- : Married," 
-                                Puttalam", : 15-09-1971,arundika_f@parliament.lk,"No.65,,Walawwatta,,Dankotuwa.",0312265404,"Hon. Arundika Fernando, M.P.",,,0312265404                                                            ,United People's Freedom Alliance(UPFA),, : Roman Catholicism
- : Married," 
-                                National List", : 02-02-1963,hizbullah_m@parliament.lk,"Meththei Church Road,,Kanthankudi.",01 - 823193,"Hon. (Dr.) M. L. A. M. Hizbullah, M.P.", : Businessman,,0652248333                                                            ,United People's Freedom Alliance(UPFA),"
-                                State Minister of Highways & Road Development", : Islam
- : Married," 
-                                Gampaha", : 01-05-1968,herath_v@parliament.lk,"No:154,,Yakkala Road,,Gampaha.",0332294904,"Hon. Vijitha Herath, M.P.", : Politician,,0112786355 / 0332235                                                            ,Janatha Vimukthi Peramuna (JVP),, : Buddhism
- : Married," 
-                                Kegalle", : 29-04-1976,kanaka_h@parliament.lk,"No 76, Rathnagiri,,Molamure Mawatha,,Kegalle,",0352221622,"Hon. Kanaka Herath, M.P.",,,0352221623                                                            ,United People's Freedom Alliance(UPFA),, : Buddhism
- : Married," 
-                                Anuradhapura", : 24-07-1964,harrison_p@parliament.lk,"Main Street,,Maradankadawala.",0252264545,"Hon. P. Harrison, M.P.", : Businessman,,0112502098                                                            ,United National Party (UNP),"
-                                Minister of Social Empowerment", : Buddhism
- : Married," 
-                                ----", : 19-10-1971,handunnetti_s@parliament.lk,"No. 04, Yahiya Road,,Issadeen Town,,Matara.",0112896394,"Hon. Sunil Handunnetti, M.P.", : Politician,,2746718                                                            ,Janatha Vimukthi Peramuna (JVP),, : Buddhism
- : Married," 
-                                Mahanuwara", : 29-08-1956,haleem_a@parliament.lk,"No. 16/2 B, Fowziya Garden,,Mawilmada Road,,Kandy.",0812212574,"Hon. Abdul Haleem, M.P.", : Bank Officer,,0812213200                                                            ,United National Party (UNP),"
-                                Minister of Post, Postal Services and Muslim Religious Affairs", : Islam
- : Married," 
-                                Mahanuwara", : 13-04-1960,hakeem_r@parliament.lk,"No. 263,,Galle Road,,Colombo 03.",,"Hon. Rauff Hakeem, M.P.", : Attorney-at-Law,,0112375149                                                            ,United National Party (UNP),"
-                                Minister of City Planning and Water Supply", : Islam
+                                Gampaha", : 08-03-1976,indika_h@parliament.lk,"Hon. Indika Anuruddha Herath, M.P.",,United People's Freedom Alliance(UPFA),
 ," 
-                                Gampaha", : 08-03-1976,indika_h@parliament.lk,"No. 11-C,Ramani Mawatha,,Negambo.",0773026909,"Hon. Indika Anuruddha Herath, M.P.",,,0312224600                                                            ,United People's Freedom Alliance(UPFA),,
+                                Colombo", : 14-10-1987,hirunika_p@parliament.lk,"Hon. (Mrs.) Hirunika Premachandra, M.P.",,United National Party (UNP),
  : Married," 
-                                Ratnapura", : 28-06-1976,hesha_w@parliament.lk,"No. 180,,New Town,,Embilipitiya.",,"Hon. Hesha Withanage, M.P.", : Company Director,,0472261830                                                            ,United National Party (UNP),, : Buddhism
+                                Hambantota", : 12-02-1962,amaraweera_m@parliament.lk,"Hon. Mahinda Amaraweera, M.P.",,United People's Freedom Alliance(UPFA), : Buddhism
 ," 
-                                Gampaha", : 27-02-1980,harshana_r@parliament.lk,"""Siriradha Bhawana"",,Millathe,,Kirindiwela.",0332267081,"Hon. Harshana Rajakaruna, M.P.",,"No. 99/4,Rosmead Place,,Colombo 07.",0332267081                                                            ,United National Party (UNP),,
+                                Gampaha", : 27-02-1980,harshana_r@parliament.lk,"Hon. Harshana Rajakaruna, M.P.",,United National Party (UNP),
+ : Married," 
+                                Ratnapura", : 28-06-1976,hesha_w@parliament.lk,"Hon. Hesha Withanage, M.P.", : Company Director,United National Party (UNP), : Buddhism
 ," 
-                                Colombo", : 14-10-1987,hirunika_p@parliament.lk,"No. 507/A/18, Privilege Residencies,,Maharagama Road, Arangala,,Hokandara North.",0112507264,"Hon. (Mrs.) Hirunika Premachandra, M.P.",,,0112507264                                                            ,United National Party (UNP),,
+                                National List", : 09-07-1983,angajan_r@parliament.lk,"Hon. Angajan Ramanathan, M.P.",,United People's Freedom Alliance(UPFA),
 ," 
-                                Anuradhapura", : 25-09-1972,ishak_r@parliament.lk,"Kalawewa,,Vijithapura.",0252269655,"Hon. Ishak Rahuman, M.P.",,"Kalawewa,Vijithapura.",0777889611                                                            ,United National Party (UNP),,
+                                Anuradhapura", : 25-09-1972,ishak_r@parliament.lk,"Hon. Ishak Rahuman, M.P.",,United National Party (UNP),
 ," 
-                                National List", : 09-07-1983,angajan_r@parliament.lk,"No. 50,,Suvisudharama Road,,Colombo 06.",0773827568,"Hon. Angajan Ramanathan, M.P.",,"No. 40,Boswell Place,,Colombo 06.",0112081535                                                            ,United People's Freedom Alliance(UPFA),"
-                                Deputy Minister of Agriculture",
-," 
-                                Badulla", : 17-11-1954,aravindh_k@parliament.lk,"No. 19,,Badulupitiya Road,,Badulla.",0712224455,"Hon. A. Aravindh Kumar, M.P.",,"No. 271/19, Resta Garden,Kerawalapitiya,,Wattala.",0112930069                                                            ,United National Party (UNP),,
+                                Badulla", : 17-11-1954,aravindh_k@parliament.lk,"Hon. A. Aravindh Kumar, M.P.",,United National Party (UNP),
