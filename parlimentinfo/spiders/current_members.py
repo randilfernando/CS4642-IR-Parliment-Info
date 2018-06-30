@@ -36,7 +36,7 @@ class CurrentMembersSpider(scrapy.Spider):
                     '//div[@class="top-mp-detail-2"]//div[@class="left-wrap"]//table[@class="mem_profile"]//tr/td[contains(.//span, "Occupation")]/text()')
         l.add_xpath('mobile',
                     '//div[@class="top-mp-detail-2"]//div[@class="right-wrap"]//table[@class="mem_profile"]//tr[1]//td[1]//td[@width="93%"]/text()')
-        l.add_xpath('h_address',
+        l.add_xpath('home_address',
                     '//div[@class="top-mp-detail-2"]//div[@class="right-wrap"]//table[@class="mem_profile"]//tr[1]//td[1]//tr//td//img[@src="/images/address.png"]/parent::td/following-sibling::td/text()')
         l.add_xpath('email', '//a[@class="link7"]/text()')
         l.add_xpath('office_phone',

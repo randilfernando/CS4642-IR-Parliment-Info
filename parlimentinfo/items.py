@@ -29,7 +29,7 @@ class CurrentMember(scrapy.Item):
     district = scrapy.Field()
     portfolio = scrapy.Field()
     mobile = scrapy.Field()
-    h_address = scrapy.Field()
+    home_address = scrapy.Field()
     email = scrapy.Field()
     office_phone = scrapy.Field()
     office_address = scrapy.Field()
